@@ -1,0 +1,33 @@
+##God-Eternal Kefnet
+
+{2}{U}{U}
+
+**Legendary Creature — Zombie God**
+
+Flying
+
+You may reveal the first card you draw each turn as you draw it. Whenever you reveal an instant or sorcery card this way, copy that card and you may cast the copy. That copy costs {2} less to cast.
+
+When God-Eternal Kefnet dies or is put into exile from the battlefield, you may put it into its owner’s library third from the top.
+
+4/5
+
+***
+
+* [Card image](https://img.scryfall.com/cards/large/front/5/e/5e14060f-9167-4e28-a053-77689e066e30.jpg)
+* [Scryfall link](https://scryfall.com/card/war/53/god-eternal-kefnet)
+* [/r/EDH thread when it was first spoiled](https://www.reddit.com/r/EDH/comments/bc8x5y/war_godeternal_kefnet/)
+* [/r/MagicTCG thread when it was first spoiled](https://www.reddit.com/r/magicTCG/comments/bc8rjt/war_godeternal_kefnet_via_cedric_philips_twitch/)
+
+***
+
+This is the official discussion thread for this new Guilds of Ravnica commander. For the next little while we'll ask discussion about brewing decks with this commander to stay in this thread, or at least be cross-posted to this thread. The idea is for this thread to be a resource for anyone looking to build around this commander in the future.
+
+This thread will also be linked to in the sidebar, and in a stickied megathread collecting all the new commanders, so that people can easily find it for at least the next three months.
+
+***
+
+Here are some existing threads on /r/EDH about this commander, to see what people have been talking about. (Note that the original spoiler thread is linked just above.) If you're interested in brewing with this commander, check out these threads first!
+
+* [To Rise Eternal](https://www.reddit.com/r/EDH/comments/bcumbk/to_rise_eternal/) 
+* [God-Eternal Kefnet, Counterbalance & Taking Turns](https://www.reddit.com/r/EDH/comments/bcc0q0/godeternal_kefnet_counterbalance_taking_turns/)

@@ -1,0 +1,50 @@
+##Feather, the Redeemed
+
+{R}{W}{W}
+
+**Legendary Creature — Angel**
+
+Flying
+
+Whenever you cast an instant or sorcery spell that targets a creature you control, exile that card instead of putting it into your graveyard as it resolves. If you do, return it to your hand at the beginning of the next end step.
+
+3/4
+
+***
+
+* [Card image](https://img.scryfall.com/cards/large/front/e/4/e4a2d2c6-8eaa-4760-b620-921b807baa2e.jpg)
+* [Scryfall link](https://scryfall.com/card/war/197/feather-the-redeemed)
+* [/r/EDH thread when it was first spoiled](https://www.reddit.com/r/EDH/comments/bawyyr/war_feather_the_redeemed/)
+* [/r/MagicTCG thread when it was first spoiled](https://www.reddit.com/r/magicTCG/comments/bawyvd/war_feather_the_redeemed/)
+
+***
+
+This is the official discussion thread for this new Guilds of Ravnica commander. For the next little while we'll ask discussion about brewing decks with this commander to stay in this thread, or at least be cross-posted to this thread. The idea is for this thread to be a resource for anyone looking to build around this commander in the future.
+
+This thread will also be linked to in the sidebar, and in a stickied megathread collecting all the new commanders, so that people can easily find it for at least the next three months.
+
+***
+
+Here are some existing threads on /r/EDH about this commander, to see what people have been talking about. (Note that the original spoiler thread is linked just above.) If you're interested in brewing with this commander, check out these threads first!
+
+(With that said, at least half of these posts are pretty low-effort, along the lines of "Here's my Feather list.", rather than much meaningful discussion about brewing.)
+
+* [Brewing with Feather, the Redeemed](https://www.reddit.com/r/EDH/comments/bazbj6/brewing_with_feather_the_redeemed/) 
+* [Feather, the Redeemed](https://www.reddit.com/r/EDH/comments/bcim9t/feather_the_redeemed/)
+* [Feather TokenStorm](https://www.reddit.com/r/EDH/comments/bcesft/feather_tokenstorm/)
+* [Fellow Sunforger Feather bandwagon brewers... question for ya about tutoring and recursion!](https://www.reddit.com/r/EDH/comments/bcgjww/fellow_sunforger_feather_bandwagon_brewers/)
+* [War of the Spark Spoilers | Feather | Roalesk | Tomik | EDH | Commander Quick Take | The Commander's Quarters](https://www.reddit.com/r/EDH/comments/bcfd1u/war_of_the_spark_spoilers_feather_roalesk_tomik/)
+* [Feather, the Redeemed Deck](https://www.reddit.com/r/EDH/comments/bca7sa/feather_the_redeemed_deck/)
+* [Trying to build a Feather, the Redeemed deck](https://www.reddit.com/r/EDH/comments/bc6omq/trying_to_build_a_feather_the_redeemed_deck/)
+* [I messed up my post yesterday, but I still would like your feedback on my take of a Feather deck!](https://www.reddit.com/r/EDH/comments/bc0vvj/i_messed_up_my_post_yesterday_but_i_still_would/)
+* [Feather, the Redeemed + Braid of Fire? (and other cool tech?)](https://www.reddit.com/r/EDH/comments/bbza16/feather_the_redeemed_braid_of_fire_and_other_cool/)
+* [Feather! Need help cutting cards](https://www.reddit.com/r/EDH/comments/bbxb5y/feather_need_help_cutting_cards/)
+* [Feather, The Redeemed Instant/Sorcery Dump](https://www.reddit.com/r/EDH/comments/bbtlci/feather_the_redeemed_instantsorcery_dump/)
+* [To join the list of Feather decks, here's my attempt!](https://www.reddit.com/r/EDH/comments/bbqea2/to_join_the_list_of_feather_decks_heres_my_attempt/)
+* [Feather, Redeeming Boros](https://www.reddit.com/r/EDH/comments/bbi1sa/feather_redeeming_boros/)
+* [Help with my Feather casual deck](https://www.reddit.com/r/EDH/comments/bbbtbv/help_with_my_feather_casual_deck/)
+* [Feather Rage? More like Feather Enraged...](https://www.reddit.com/r/EDH/comments/bd7upr/feather_rage_more_like_feather_enraged/)
+* [Another Feather list.... that needs help!](https://www.reddit.com/r/EDH/comments/begvqx/another_feather_list_that_needs_help/)
+* [Unpopular opinion: Commander decks led by Feather will not be successful](https://www.reddit.com/r/EDH/comments/bd8qz7/unpopular_opinion_commander_decks_led_by_feather/)
+* [Feather, the Redeemed deck list & advise - Is it illegal to make posts for this commander yet?](https://www.reddit.com/r/EDH/comments/bettma/feather_the_redeemed_deck_list_advise_is_it/)
+

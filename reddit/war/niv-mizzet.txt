@@ -1,0 +1,32 @@
+##Niv-Mizzet Reborn
+
+{W}{U}{B}{R}{G}
+
+**Legendary Creature — Dragon Avatar**
+
+Flying
+
+When Niv-Mizzet Reborn enters the battlefield, reveal the top ten cards of your library. For each color pair, choose a card that’s exactly those colors from among them. Put the chosen cards into your hand and the rest on the bottom of your library in a random order.
+
+6/6
+
+***
+
+* [Card image](https://img.scryfall.com/cards/large/front/5/6/56a2609d-b535-400b-81d9-72989a33c70f.jpg)
+* [Scryfall link](https://scryfall.com/card/war/208/niv-mizzet-reborn)
+* [/r/EDH thread when it was first spoiled](https://www.reddit.com/r/EDH/comments/bceh43/war_nivmizzet_reborn/)
+* [/r/MagicTCG thread when it was first spoiled](https://www.reddit.com/r/magicTCG/comments/bce8fo/war_nivmizzet_reborn/)
+
+***
+
+This is the official discussion thread for this new Guilds of Ravnica commander. For the next little while we'll ask discussion about brewing decks with this commander to stay in this thread, or at least be cross-posted to this thread. The idea is for this thread to be a resource for anyone looking to build around this commander in the future.
+
+This thread will also be linked to in the sidebar, and in a stickied megathread collecting all the new commanders, so that people can easily find it for at least the next three months.
+
+***
+
+Here are some existing threads on /r/EDH about this commander, to see what people have been talking about. (Note that the original spoiler thread is linked just above.) If you're interested in brewing with this commander, check out these threads first!
+
+* [Is Niv-Mizzet Reborn cedh worthy?](https://www.reddit.com/r/EDH/comments/bcjbck/is_nivmizzet_reborn_cedh_worthy/) 
+* [Searching for cards for new Niv](https://www.reddit.com/r/EDH/comments/bcgl2v/searching_for_cards_for_new_niv/)
+* [Niv-Mizzet Reborn Dragon Tribal Help](https://www.reddit.com/r/EDH/comments/behr4z/nivmizzet_reborn_dragon_tribal_help/)

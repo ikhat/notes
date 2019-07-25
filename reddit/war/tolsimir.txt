@@ -1,0 +1,31 @@
+##Tolsimir, Friend to Wolves
+
+{2}{G}{G}{W}
+
+**Legendary Creature — Elf Scout**
+
+**When Tolsimir, Friend to Wolves enters the battlefield, create Voja, Friend to Elves, a legendary 3/3 green and white Wolf creature token.**
+
+Whenever a Wolf enters the battlefield under your control, you gain 3 life and that creature fights up to one target creature an opponent controls.
+
+3/3
+
+***
+
+* [Card image](https://img.scryfall.com/cards/large/front/f/7/f7fce047-49f1-40ae-8410-6501cb0f8201.jpg)
+* [Scryfall link](https://scryfall.com/card/war/224/tolsimir-friend-to-wolves)
+* [/r/EDH thread when it was first spoiled](https://www.reddit.com/r/EDH/comments/b99rmj/tolsimir_friend_to_wolves_war/)
+* [/r/MagicTCG thread when it was first spoiled](https://www.reddit.com/r/magicTCG/comments/b99i4m/war_tolsimir_friend_to_wolves/)
+
+***
+
+This is the official discussion thread for this new Guilds of Ravnica commander. For the next little while we'll ask discussion about brewing decks with this commander to stay in this thread, or at least be cross-posted to this thread. The idea is for this thread to be a resource for anyone looking to build around this commander in the future.
+
+This thread will also be linked to in the sidebar, and in a stickied megathread collecting all the new commanders, so that people can easily find it for at least the next three months.
+
+***
+
+Here are some existing threads on /r/EDH about this commander, to see what people have been talking about. (Note that the original spoiler thread is linked just above.) If you're interested in brewing with this commander, check out these threads first!
+
+* [My take on a new Tolsimir commander deck (suggestions very welcome!)](https://www.reddit.com/r/EDH/comments/b9wi1h/my_take_on_a_new_tolsimir_commander_deck/) 
+* [Commander Quick Take | War of the Spark Spoilers | Tolsimir | Storrev | Mowu | EDH | The Commander's Quarters](https://www.reddit.com/r/EDH/comments/b9t4f2/commander_quick_take_war_of_the_spark_spoilers/)

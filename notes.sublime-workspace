@@ -1,0 +1,1340 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"test_",
+				"test_averages"
+			],
+			[
+				"test",
+				"test_marks"
+			],
+			[
+				"proble",
+				"problem_set_totals"
+			],
+			[
+				"get",
+				"get_exam_mark"
+			],
+			[
+				"get_",
+				"get_ps_marks"
+			],
+			[
+				"is",
+				"isnumeric"
+			],
+			[
+				"problem_s",
+				"problem_set_totals"
+			],
+			[
+				"problem",
+				"problem_set_marks"
+			],
+			[
+				"sum",
+				"sum_of_C"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"border",
+				"border-width"
+			],
+			[
+				"large",
+				"large-left"
+			],
+			[
+				"tra",
+				"translation"
+			],
+			[
+				"mulliga",
+				"mulligan"
+			],
+			[
+				"max",
+				"max_card_length"
+			],
+			[
+				"next",
+				"next_few_cards"
+			],
+			[
+				"insights",
+				"insights_cast"
+			],
+			[
+				"insi",
+				"insights_cast"
+			],
+			[
+				"cards",
+				"cards_in_hand"
+			],
+			[
+				"mu",
+				"mulligan"
+			],
+			[
+				"mulligan_",
+				"mulligan_decision"
+			],
+			[
+				"this",
+				"this_many_more_cards"
+			],
+			[
+				"mull",
+				"mulligan_count"
+			],
+			[
+				"sorted",
+				"sorted_reduced_masks"
+			],
+			[
+				"sort",
+				"sorted_reduced_masks"
+			],
+			[
+				"redu",
+				"reduced_masks"
+			],
+			[
+				"on",
+				"on_the_play"
+			],
+			[
+				"red",
+				"reduced_masks"
+			],
+			[
+				"bolt",
+				"bolt_cost"
+			],
+			[
+				"bolts",
+				"bolts_we_can_play"
+			],
+			[
+				"mana",
+				"mana_this_turn"
+			],
+			[
+				"num",
+				"number_of_turns"
+			],
+			[
+				"average_",
+				"average_mulligans"
+			],
+			[
+				"numer",
+				"number_of_mulligans"
+			],
+			[
+				"kill",
+				"kill_turn"
+			],
+			[
+				"number",
+				"number_of_turns"
+			],
+			[
+				"hand",
+				"hand_size"
+			],
+			[
+				"primes",
+				"primes_between"
+			],
+			[
+				"elap",
+				"elapsed1"
+			],
+			[
+				"star",
+				"start1"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"n",
+				"n"
+			],
+			[
+				"fac",
+				"facts"
+			],
+			[
+				"so",
+				"so_farther"
+			],
+			[
+				"col",
+				"colin_total"
+			],
+			[
+				"pete",
+				"pete_total"
+			],
+			[
+				"d",
+				"d4"
+			],
+			[
+				"p",
+				"pete_possibilities"
+			],
+			[
+				"c",
+				"c_score"
+			],
+			[
+				"length",
+				"length-1"
+			],
+			[
+				"winn",
+				"winning_ratio"
+			],
+			[
+				"hel",
+				"heptagonal"
+			],
+			[
+				"he",
+				"heptagonal"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"sta",
+				"stage3"
+			],
+			[
+				"stage",
+				"stage3"
+			],
+			[
+				"pro",
+				"probablyPrime"
+			],
+			[
+				"dia",
+				"diagonal_primes"
+			],
+			[
+				"dec",
+				"decrypt"
+			],
+			[
+				"char",
+				"char2"
+			],
+			[
+				"releva",
+				"relevant_digits"
+			],
+			[
+				"re",
+				"relevant_digits"
+			],
+			[
+				"f",
+				"five_digit_patterns"
+			],
+			[
+				"perm",
+				"permutations"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"rank",
+				"rank1"
+			],
+			[
+				"ha",
+				"hand2"
+			],
+			[
+				"straight",
+				"straightflush"
+			],
+			[
+				"car",
+				"card_val"
+			],
+			[
+				"w",
+				"winner"
+			],
+			[
+				"a",
+				"a_to_the_b"
+			],
+			[
+				"winning",
+				"winning_b"
+			],
+			[
+				"open",
+				"open_list"
+			],
+			[
+				"parent",
+				"parentj"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"path",
+				"path_from_parent"
+			],
+			[
+				"working",
+				"workingi"
+			],
+			[
+				"work",
+				"workingj"
+			],
+			[
+				"workin",
+				"workingj"
+			],
+			[
+				"wor",
+				"workingi"
+			],
+			[
+				"sor",
+				"sorted_list"
+			],
+			[
+				"chara",
+				"characters_used"
+			],
+			[
+				"best",
+				"best_sums"
+			],
+			[
+				"prime",
+				"prime_factors"
+			],
+			[
+				"pri",
+				"prime_factors"
+			],
+			[
+				"pe",
+				"pe44"
+			],
+			[
+				"testing",
+				"testing"
+			],
+			[
+				"ten",
+				"tens_prefixes"
+			],
+			[
+				"win",
+				"win_i"
+			],
+			[
+				"lar",
+				"largest_factor"
+			],
+			[
+				"is_",
+				"is_truncatable"
+			],
+			[
+				"no",
+				"no_evens"
+			],
+			[
+				"s",
+				"s"
+			],
+			[
+				"de",
+				"denominations"
+			],
+			[
+				"Fib",
+				"Fib_n"
+			],
+			[
+				"Log",
+				"Log_sqrt5"
+			],
+			[
+				"first",
+				"first_fibonacci_digits"
+			],
+			[
+				"fa",
+				"factorial_list"
+			],
+			[
+				"es",
+				"elapsed"
+			],
+			[
+				"to",
+				"total"
+			],
+			[
+				"wi",
+				"width_of_spiral"
+			],
+			[
+				"u",
+				"upper_limit"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "2019-June\n\nThe Gramfel Cycle: https://imgur.com/gallery/Dlfgf\n\t- Garfield x Lovecraft comics\n\t- done by John Cullen: https://nellucnhoj.com\n\nJune security update for rooted Essential PH-1: https://redd.it/bwhy9j\n\nMinimalism documentary trailer: https://www.youtube.com/watch?v=0Co1Iptd4p4\n\t- it's on Netflix, added to my list \n\nBinging with Babish health/fitness info: https://www.bingingwithbabish.com/health-fitness\n\t- primarily interested in this for recipies, but hey, excercise.\n\nCoffee \n\t- most efficient cold brew recipe\n\t\t- 1:12.5 ratio, by mass, of coffee to water. This makes ready-to-drink, no dilution required. \n\t\t- https://uelzing.com/blog/2016/11/22/the-most-efficient-cold-brew-ratio\n\t- french press - Babish\n\t\t- grind to a consistency like kosher salt\n\t\t- 1:12 ratio, by weight\n\t\t- brew for 4 minutes\n\t\t- https://basicswithbabish.co/basicsepisodes/coffee\n\t- Costco coffee coldbrew first attempt\n\t\t- 4oz ground coffee : 24oz water\n\t\t- 18h brew time on the counter\n\t- Costco coffee coldbrew second attempt\n\t\t- 120g ground coffee : ~730g water\n\t\t- outcome: delicious!\n\npulled pork \n\t- Dr. Pepper recipe: http://myretrokitchen.blogspot.com/2011/10/dr-pepper-pulled-pork-in-slow-cooker.html\n\t- stout barbecue sauce: https://www.seriouseats.com/recipes/2011/01/grilling-stout-barbecue-sauce-recipe.html?ref=search\n\nNice clean desk idea\n\t- Linus Tech Tips video: https://www.youtube.com/watch?v=G2VxwFEA8xM\n\t- Thunderbolt 3 laptop necessary. Current Macbook only has Thunderbolt 2. \n\nRadiohead\n\t- 18 hours worth of recordings of Radiohead's OK Computer sessions got leaked, so Radiohead released them.\n\t- PWYC from Radiohead, but also available on all major torrent sites.\n\nJoin app\n\t- Installed the Join app on my phone and the Chrome Extension.\n\t- It's like a fancier version of Pushbullet.\n\t- 1 month trial started on 25 June\n\nMac and MacOS stuff\n\t- Productivity software: https://www.boxysuite.com/blog/mac-productivity\n\t\t- So far I've installed Vanilla, which lets you hide icons in the menu bar. \n\t\t- Soulver might be worth looking at, though it costs a bunch. \n\t\t- Karabiner elements\n\t\t\t- Guide to making a hyper key: https://brettterpstra.com/2017/06/15/a-hyper-key-with-karabiner-elements-full-instructions/\n\t\t- Nikita Voloboev\n\t\t\t- Guy who uses Karabiner in cool ways, and generally has his MacOS situation organized well.\n\t\t\t- his dotfiles: https://github.com/nikitavoloboev/dotfiles/blob/master/README.md#karabiner\n\t\t\t- Karabiner God Mode: https://medium.com/@nikitavoloboev/karabiner-god-mode-7407a5ddc8f6\n\t\t- Guide to a good iTerm experience, including switching to zsh from bash\n\t\t\t- https://medium.com/@caulfieldOwen/youre-missing-out-on-a-better-mac-terminal-experience-d73647abf6d7\n\t\t- Keyboard Maestro stuff\n\t\t\t- https://mattgemmell.com/keyboard-maestro-macros/\n\t\t- Organizing my dotfiles\n\t\t\t- article: https://www.anishathalye.com/2014/08/03/managing-your-dotfiles/\n\t\t\t- tool: https://github.com/anishathalye/dotbot\n\nJune 25 pesto tomato chicken pasta recipe\n\t- Cut a bunch of cherry tomatoes in half\n\t\t- mince two cloves of garlic\n\t\t- toss them together with olive oil, salt, and pepper\n\t\t- spread them on an oiled baking sheet, and put them under the broiler until the tomatos are bursting\n\t- Cook pasta, add pesto, cooked tomatoes, raw tomatos if you want, and cooked chicken. \n\t- Emily loved it. \n\nKnowledge repository on Git: https://github.com/RichardLitt/meta-knowledge\n\nPotential way to implement markdown link snippets: https://leancrew.com/all-this/2014/07/quicker-markdown-linking-with-textexpander/\nAnother way, with Keyboard Maestro: https://brooksreview.net/2011/03/mad-links-km/\n\nAwesome lists: https://github.com/sindresorhus/awesome\n\nGame Boy Pocket shells: https://www.retromodding.com/collections/gameboy-pocket\n\t",
+			"file": "general/201906.txt",
+			"file_size": 3681,
+			"file_write_time": 132061717532912651,
+			"settings":
+			{
+				"buffer_size": 3762,
+				"line_ending": "Unix",
+				"name": "2019-06 June"
+			}
+		},
+		{
+			"file": "scratch.txt",
+			"settings":
+			{
+				"buffer_size": 1210,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				"PdfLaTeX"
+			]
+		],
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				],
+				[
+					"Packages/LaTeXTools-master/LaTeX.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				"PdfLaTeX"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/Python3.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python3.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 71.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"edit p",
+				"Project: Edit Project"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"reverse",
+				"Permute Lines: Reverse"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"markdow",
+				"Set Syntax: Markdown"
+			],
+			[
+				"sort lines",
+				"Sort Lines by Selection"
+			],
+			[
+				"paca",
+				"Package Control: Install Package"
+			],
+			[
+				"yaml",
+				"Set Syntax: YAML"
+			],
+			[
+				"prv ",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"prv",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"block co",
+				"Toggle Block Comment"
+			],
+			[
+				"pytho",
+				"Set Syntax: Python"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"fold",
+				"Code Folding: Unfold All"
+			],
+			[
+				"snippe",
+				"Snippet: Turn selection into LaTeX environment"
+			],
+			[
+				"buil",
+				"Build With: LaTeX"
+			],
+			[
+				"frame",
+				"Snippet: Beamer frame"
+			],
+			[
+				"build",
+				"Build With: LaTeX"
+			],
+			[
+				"unfol",
+				"Code Folding: Unfold All"
+			],
+			[
+				"beamer",
+				"Snippet: Beamer frame"
+			],
+			[
+				"sn",
+				"Snippet: Emphasize text"
+			],
+			[
+				"snip",
+				"Snippet: Description"
+			],
+			[
+				"Snippet: ",
+				"Snippet: \\begin{}…\\end{}"
+			],
+			[
+				"Package Control: remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"installpa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"py",
+				"Set Syntax: Python"
+			],
+			[
+				"com",
+				"Toggle Block Comment"
+			],
+			[
+				"pyt",
+				"Set Syntax: Python"
+			],
+			[
+				"comm",
+				"Toggle Block Comment"
+			],
+			[
+				"pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"tab",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"block",
+				"Toggle Block Comment"
+			],
+			[
+				"re",
+				"File: Revert"
+			],
+			[
+				"reve",
+				"File: Revert"
+			],
+			[
+				"rev",
+				"File: Revert"
+			],
+			[
+				"rever",
+				"File: Revert"
+			],
+			[
+				"latex",
+				"LaTeXTools: View PDF"
+			],
+			[
+				"brows",
+				"Preferences: Browse Packages"
+			],
+			[
+				"comme",
+				"Toggle Block Comment"
+			],
+			[
+				"package ",
+				"Preferences: Browse Packages"
+			],
+			[
+				"snip if",
+				"Snippet: if __name__ == '__main__'"
+			],
+			[
+				"snip for",
+				"Snippet: For Loop"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"j",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"p",
+				"Set Syntax: Python"
+			]
+		],
+		"width": 495.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"preview",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/monolith/Dropbox/notes",
+		"/Users/monolith/Dropbox/notes/general",
+		"/Users/monolith/Dropbox/notes/lists",
+		"/Users/monolith/Dropbox/notes/reddit"
+	],
+	"file_history":
+	[
+		"/Users/monolith/Dropbox/notes/notes.sublime-project",
+		"/Users/monolith/.config/karabiner.edn",
+		"/Users/monolith/set-macos-defaults.sh",
+		"/Users/monolith/Dropbox/notes/scratch.txt",
+		"/Users/monolith/Library/Application Support/Karabiner/private.xml",
+		"/Users/monolith/Dropbox/notes/reddit/m20/m20-commanders.md",
+		"/Users/monolith/Dropbox/notes/reddit/m20/kethis.md",
+		"/Users/monolith/Dropbox/notes/reddit/m20/golos.md",
+		"/Users/monolith/Dropbox/notes/reddit/m20/gargos.md",
+		"/Users/monolith/Dropbox/notes/reddit/m20/drakuseth.md",
+		"/Users/monolith/Dropbox/notes/reddit/m20/vilis.md",
+		"/Users/monolith/Dropbox/notes/reddit/m20/atemsis.md",
+		"/Users/monolith/Dropbox/notes/reddit/m20/sephara.md",
+		"/Users/monolith/Dropbox/notes/reddit/m20/yarok.md",
+		"/Users/monolith/Dropbox/notes/reddit/m20/rienne.md",
+		"/Users/monolith/Dropbox/notes/reddit/m20/omnath.md",
+		"/Users/monolith/Dropbox/notes/reddit/m20/kykar.md",
+		"/Users/monolith/Dropbox/notes/reddit/war/feather.txt",
+		"/Users/monolith/Dropbox/notes/reddit/m20/kaalia.md",
+		"/Users/monolith/Dropbox/notes/reddit/war/WAR-commanders.txt",
+		"/Users/monolith/Dropbox/notes/reddit/muldrotha.txt",
+		"/Users/monolith/Dropbox/notes/lists/excellent-names.txt",
+		"/Users/monolith/Dropbox/notes/dl_cue",
+		"/Users/monolith/Dropbox/notes/reddit/sell_me.txt",
+		"/Users/monolith/Dropbox/notes/reddit/house_rules.txt",
+		"/Users/monolith/Dropbox/notes/reddit/planeswalker_commanders.txt",
+		"/Users/monolith/Dropbox/notes/reddit/proxies.txt",
+		"/Users/monolith/Dropbox/notes/reddit/budget_five_color.txt",
+		"/Users/monolith/Dropbox/notes/reddit/partner.txt",
+		"/Users/monolith/Dropbox/notes/reddit/war/oketra.txt",
+		"/Users/monolith/Dropbox/notes/reddit/war/niv-mizzet.txt",
+		"/Users/monolith/Dropbox/notes/reddit/war/massacregirl.txt",
+		"/Users/monolith/Dropbox/notes/reddit/war/ilharg.txt",
+		"/Users/monolith/Dropbox/notes/reddit/war/ilharg",
+		"/Users/monolith/Dropbox/notes/reddit/war/rhonas.txt",
+		"/Users/monolith/Dropbox/notes/reddit/war/kefnet.txt",
+		"/Users/monolith/Dropbox/notes/reddit/war/bontu.txt",
+		"/Users/monolith/Dropbox/notes/2019-04-07-Mon.txt",
+		"/Users/monolith/Dropbox/notes/journal/2019-04-07-Sun.txt",
+		"/Users/monolith/Dropbox/notes/journal/2019-04-06-Sat.txt",
+		"/Users/monolith/Dropbox/notes/reddit/war/2019-04-07-Sun.txt",
+		"/Users/monolith/Dropbox/notes/reddit/war/tolsimir.txt",
+		"/Users/monolith/Dropbox/notes/reddit/war/storrev.txt",
+		"/Users/monolith/Dropbox/notes/reddit/war/mowu.txt",
+		"/Users/monolith/Dropbox/notes/reddit/war/roalesk.txt",
+		"/Users/monolith/Dropbox/notes/reddit/war/neheb.txt",
+		"/Users/monolith/Dropbox/notes/reddit/war/krenko.txt",
+		"/Users/monolith/Dropbox/notes/reddit/war/fblthp.txt",
+		"/Users/monolith/Dropbox/notes/reddit/war/tomik.txt",
+		"/Users/monolith/Dropbox/notes/proxy_requests.txt",
+		"/Users/monolith/Dropbox/notes/jeopardy.txt",
+		"/Users/monolith/Dropbox/notes/mtg/cart.txt",
+		"/Users/monolith/Dropbox/notes/reddit/WAR-commanders.txt",
+		"/Users/monolith/Dropbox/notes/budget_five_color.txt",
+		"/Users/monolith/Downloads/Egget (19th Place).txt",
+		"/Users/monolith/Dropbox/notes/montreal-addresses.txt",
+		"/Users/monolith/Dropbox/notes/reddit/GRN_commanders.txt",
+		"/Users/monolith/Dropbox/notes/mtg/montreal.txt",
+		"/Users/monolith/Dropbox/programming/project_euler/80-89/Problem84.py",
+		"/Users/monolith/Dropbox/notes/lists/seiko_mods.txt",
+		"/Users/monolith/Dropbox/notes/reddit/c18_megathread.txt",
+		"/Users/monolith/Dropbox/notes/reddit/stylesheet backup",
+		"/Users/monolith/Dropbox/notes/mat391_nonsense.txt",
+		"/Users/monolith/Dropbox/teaching/mat327/18_summer/biglist/full/biglist.tex",
+		"/Users/monolith/Dropbox/teaching/mat327/18_summer/quiz/q1-t1/quiz/q1-t1.tex",
+		"/Users/monolith/Dropbox/teaching/mat327/17_summer/biglist/full/biglist.tex",
+		"/Users/monolith/Dropbox/notes/cocktails/amaretto_sour.txt",
+		"/Users/monolith/Dropbox/notes/cocktails/paper_plane.txt",
+		"/Users/monolith/Dropbox/notes/cocktails/mojito.txt",
+		"/Users/monolith/Dropbox/notes/cocktails/singapore_sling.txt",
+		"/Users/monolith/Dropbox/notes/notes.sublime-workspace",
+		"/Users/monolith/Dropbox/notes/reddit/basic_land_art.txt",
+		"/Users/monolith/Dropbox/teaching/mat137/1718/2slides/11/lecture211.tex",
+		"/Users/monolith/Dropbox/teaching/mat137/1617/2slides/08/lecture208.tex",
+		"/Users/monolith/Dropbox/notes/toru.txt",
+		"/Users/monolith/Dropbox/notes/derm-appt.txt",
+		"/Users/monolith/Dropbox/notes/titaniumbackup",
+		"/Users/monolith/Dropbox/notes/mtg/gp-toronto-artists.txt",
+		"/Users/monolith/Dropbox/notes/mtg/facebook-magic-refs.txt",
+		"/Users/monolith/Dropbox/notes/reddit/tournament_report_template.txt",
+		"/Users/monolith/Dropbox/notes/Magic/facebook_magic_refs.txt",
+		"/Users/monolith/Dropbox/notes/borborygmos_cards.txt",
+		"/Users/monolith/Dropbox/notes/Magic/gp_toront_artists.txt",
+		"/Users/monolith/Dropbox/notes/toru",
+		"/Users/monolith/Dropbox/notes/cocktails/brooklyn.txt",
+		"/Users/monolith/Dropbox/notes/cocktails/jungle_bird.txt",
+		"/Users/monolith/Dropbox/notes/lists/movies.txt",
+		"/Users/monolith/Dropbox/notes/dematologist appointment.txt",
+		"/Users/monolith/Dropbox/notes/cocktails/greenpoint.txt",
+		"/Users/monolith/Dropbox/notes/cocktails/tuxedo.txt",
+		"/Users/monolith/Dropbox/notes/ramos_gin_fizz.txt",
+		"/Users/monolith/Dropbox/notes/cocktails/liquid_wisdom.txt",
+		"/Users/monolith/Dropbox/notes/cocktails/golden_frog.txt",
+		"/Users/monolith/Dropbox/notes/cocktails/bourbon_renewal.txt",
+		"/Users/monolith/Dropbox/notes/cocktails/trinidad_sour.txt",
+		"/Users/monolith/Dropbox/notes/cocktails/meathook.txt",
+		"/Users/monolith/Dropbox/notes/bourbon_renewal.txt",
+		"/Users/monolith/Dropbox/notes/todo.txt",
+		"/Users/monolith/Dropbox/notes/router.txt",
+		"/Users/monolith/Dropbox/teaching/mat137/1718/1slides/01/lecture01.tex",
+		"/Users/monolith/Dropbox/notes/Vim things",
+		"/Users/monolith/Dropbox/notes/November 6, 9:45am, Dr dekoven, main wing 1st floo",
+		"/Users/monolith/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/monolith/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/monolith/Dropbox/programming/sandbox/templates/index.html",
+		"/Users/monolith/Dropbox/programming/sandbox/templates/base.html",
+		"/Users/monolith/Dropbox/programming/sandbox/index.html",
+		"/Users/monolith/Dropbox/programming/sandbox/post",
+		"/Users/monolith/Dropbox/programming/sandbox/test2.py",
+		"/Users/monolith/Dropbox/programming/sandbox/sample_post.md",
+		"/Users/monolith/Dropbox/programming/sandbox/sample_template.html",
+		"/Users/monolith/Dropbox/programming/sandbox/sample",
+		"/Users/monolith/temp/webtest/py_site/generator.py",
+		"/Users/monolith/temp/webtest/py_site/index.html",
+		"/Users/monolith/temp/webtest/py_site/content/posts/2017/08/Test.md",
+		"/Users/monolith/Dropbox/programming/project_euler/euler.py",
+		"/Applications/Python 3.3/Update Shell Profile.command",
+		"/Users/monolith/Dropbox/teaching/mat327/mat327.sublime-project",
+		"/Users/monolith/Dropbox/programming/test.py",
+		"/Users/monolith/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/monolith/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Applications/Karabiner.app/Contents/Resources/replacementdef.xml",
+		"/Applications/Karabiner.app/Contents/Resources/include/checkbox/launcher_mode.xml",
+		"/Applications/Karabiner.app/Contents/Resources/vkopenurldef.xml",
+		"/Applications/Karabiner.app/Contents/Resources/appdef.xml",
+		"/Applications/Karabiner.app/Contents/Resources/inputsourcedef.xml",
+		"/Applications/Karabiner.app/Contents/Resources/modifierdef.xml",
+		"/Applications/Karabiner.app/Contents/Resources/vkchangeinputsourcedef.xml"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 95.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"war-sidebar",
+			"kethis",
+			"golos",
+			"* /r/EDH New Commander Discussion Thread\n***",
+			"Thread\n***",
+			"Thread",
+			"planeswalker",
+			"[^\\x00-\\x7F]",
+			"’",
+			"storre",
+			"roale",
+			"feather",
+			"mowu",
+			"neheb",
+			"krenko",
+			"ilharg",
+			"massacre",
+			"bontu",
+			"rawData2018",
+			"rawData2019",
+			"rawData2018",
+			"[^\\x00-\\x7F]",
+			"broc",
+			"infect",
+			"n",
+			"[1-9]",
+			"[n]",
+			"h1",
+			"c18",
+			"spoiled/leaked",
+			"What is $\\det",
+			"_{\\mathcal E}",
+			"is a vector such that",
+			"url(%%m19-sidebar-Tripike1%%)",
+			"]()",
+			"crowd",
+			"grenzo",
+			"tarfire",
+			"gempalm",
+			"deluge",
+			"ringleader",
+			"Game 3:",
+			"Game 2:",
+			"kiki",
+			"matron",
+			"lackey",
+			"wasteland",
+			"vial",
+			"finite products",
+			"stuff",
+			"damage",
+			"casual",
+			"toolbox",
+			"oppressive",
+			"opressive",
+			"^[*][ ][A-Z]",
+			"^[* ][A-Z]",
+			"^[* ]",
+			"^[* ]$",
+			"^[*]$",
+			"^[*]",
+			"^[*][\\s]$",
+			"^[*][\\s][A-Z]$",
+			"^[*][ ][A-Z]$",
+			"^*\\ [A-Z]$",
+			"^\\*\\ [A-Z]$",
+			"^\\s*$",
+			"#",
+			"\\\\n",
+			"control",
+			"interactive",
+			"wasteland",
+			"stifle",
+			"ponder",
+			"daze",
+			"delver",
+			"opeth",
+			"ongoing",
+			"mono black",
+			"wr",
+			"rw",
+			"boros",
+			"bourbon",
+			"vermouth",
+			"decks",
+			"1",
+			"index",
+			"_as_",
+			"env home",
+			"Desktop",
+			"facebook",
+			"finder",
+			"reload",
+			"xml",
+			"name",
+			"launcher",
+			"launcer",
+			"facebook",
+			"safari",
+			"gith",
+			"github",
+			"launcher",
+			"textedit",
+			"sublime",
+			"chrome",
+			"itunes",
+			"desktop",
+			"xcode",
+			"texte",
+			"Terminal",
+			"V1",
+			"320",
+			"nomak",
+			" table.",
+			" table ",
+			"table",
+			"dslim",
+			"connectedness is fini",
+			"connectedness is dini",
+			"connectedness",
+			"tikzcd",
+			"bundle",
+			"commutes",
+			"disjoint,",
+			"(-n",
+			"heine",
+			"is surjective",
+			"connectedness is "
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"m20-sidebar",
+			"* /r/EDH New Commander Discussion Thread\n\n***",
+			"Thread\n\n***",
+			"spoiled",
+			"",
+			"Grenzo",
+			"Tarfire",
+			"Gempalm",
+			"Ringleader",
+			"**Game 3:**",
+			"**Game 2:**",
+			"Kiki",
+			"Matron",
+			"Lackey",
+			"Wasteland",
+			"Vial",
+			"Wasteland",
+			"Stifle",
+			"Ponder",
+			"Daze",
+			"Delver",
+			"**in:**",
+			"**out:**",
+			". ",
+			"- TUTORIAL - Quiz",
+			"- Fri (1h)",
+			"- Wed (2h)",
+			"#Round",
+			" I ",
+			". ",
+			"",
+			". ",
+			"",
+			"## Sideboard",
+			"",
+			", ",
+			",\t",
+			" ",
+			"range",
+			"%------------------------------------------------------------------------------",
+			" %------------------------------------------------------------------------------",
+			" ",
+			"&gt;",
+			"&lt;",
+			"COMMUNITY CHEST",
+			"CHANCE",
+			" ",
+			"\t",
+			" ",
+			"",
+			"<li>",
+			"\"pad\"",
+			"<li>",
+			"working_deck"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "general/201906.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3762,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3407,
+								3407
+							]
+						],
+						"settings":
+						{
+							"auto_name": "2019-06 June",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "scratch.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1210,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								30,
+								40
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 345.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.latextools":
+	{
+		"height": 116.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 106.0
+	},
+	"pinned_build_system": "",
+	"project": "notes.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"scra",
+				"scratch.txt"
+			],
+			[
+				"",
+				"Caleb's Delver deck"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 125.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

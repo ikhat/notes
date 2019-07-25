@@ -1,0 +1,32 @@
+##God-Eternal Rhonas
+
+{3}{G}{G}
+
+**Legendary Creature — Zombie God**
+
+Deathtouch
+
+When God-Eternal Rhonas enters the battlefield, double the power of each other creature you control until end of turn. Those creatures gain vigilance until end of turn.
+
+When God-Eternal Rhonas dies or is put into exile from the battlefield, you may put it into its owner’s library third from the top.
+
+5/5
+
+***
+
+* [Card image](https://img.scryfall.com/cards/large/front/0/e/0eb444f0-69cc-47c8-8cd6-1f9edad5d903.jpg)
+* [Scryfall link](https://scryfall.com/card/war/163/god-eternal-rhonas)
+* [/r/EDH thread when it was first spoiled](https://www.reddit.com/r/EDH/comments/bc5y22/godeternal_rhonas_war/)
+* [/r/MagicTCG thread when it was first spoiled](https://www.reddit.com/r/magicTCG/comments/bc5rtu/war_godeternal_rhonas/)
+
+***
+
+This is the official discussion thread for this new Guilds of Ravnica commander. For the next little while we'll ask discussion about brewing decks with this commander to stay in this thread, or at least be cross-posted to this thread. The idea is for this thread to be a resource for anyone looking to build around this commander in the future.
+
+This thread will also be linked to in the sidebar, and in a stickied megathread collecting all the new commanders, so that people can easily find it for at least the next three months.
+
+***
+
+Here are some existing threads on /r/EDH about this commander, to see what people have been talking about. (Note that the original spoiler thread is linked just above.) If you're interested in brewing with this commander, check out these threads first!
+
+* [To Rise Eternal](https://www.reddit.com/r/EDH/comments/bcumbk/to_rise_eternal/) 
