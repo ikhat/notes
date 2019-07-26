@@ -1,14 +1,19 @@
-Bourbon Renewal
+# Bourbon Renewal
 
-2 oz   bourbon
-1 oz   lemon juice
-0.5 oz creme de cassis
-0.5 oz simple syrup
-1 dash Angostura bitters
+## Ingredients
 
-Shake with ice, then strain over fresh ice.
-Garnish with a lemon wedge.
+* 2 oz   bourbon
+* 1 oz   lemon juice
+* 0.5 oz creme de cassis
+* 0.5 oz simple syrup
+* 1 dash Angostura bitters
 
---------------------
+## Preparation
 
-http://www.jeffreymorgenthaler.com/2004/bourbon-renewal/
+Shake with ice, then strain over fresh ice. Garnish with a lemon wedge.
+
+***
+
+## Other notes
+
+[Jeffrey Morgenthaler's recipe](http://www.jeffreymorgenthaler.com/2004/bourbon-renewal/).
