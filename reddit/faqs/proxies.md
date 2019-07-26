@@ -1,6 +1,6 @@
 Proxies in EDH
 
-##Discussions about whether proxies are okay with people/groups
+## Discussions about whether proxies are okay with people/groups
 
 **Count so far:** 78
 
@@ -83,7 +83,7 @@ Proxies in EDH
 * 2013-04-14 - 19 posts - [How do you feel about playing people who proxy EDH decks?](https://www.reddit.com/r/EDH/comments/1cck4z/how_do_you_feel_about_playing_people_who_proxy/)
 * 2012-07-23 - 62 posts - [What is your opinion on Proxies in EDH?](https://www.reddit.com/r/EDH/comments/x1bs8/what_is_your_opinion_on_proxies_in_edh/)
 
-##How do people make proxies?
+## How do people make proxies?
 
 **Count so far:** 16
 

@@ -1,3 +1,7 @@
+What basic land art do you like?
+
+**Count so far**: 31
+
 * 2018-01-14 - 128 posts - [What are your go to basic lands?](https://www.reddit.com/r/magicTCG/comments/7qfnuf/what_are_your_go_to_basic_lands/)
 * 2017-07-24 - 39 posts - [What is your favorite basic land art?](https://www.reddit.com/r/magicTCG/comments/6pblwr/what_is_your_favorite_basic_land_art/)
 * 2017-06-08 - 95 posts - [Basic Land Choices](https://www.reddit.com/r/magicTCG/comments/6g0ffx/basic_land_choices/)

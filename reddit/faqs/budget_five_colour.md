@@ -1,6 +1,6 @@
 Budget five colour mana bases
 
-##/r/EDH posts
+## /r/EDH posts
 
 **Count so far:** 41
 
@@ -46,7 +46,7 @@ Budget five colour mana bases
 * 2013-12-19 - 17 posts - [Budget Mana-base for 5-colored EDH deck](https://www.reddit.com/r/EDH/comments/1t8kzk/budget_manabase_for_5colored_edh_deck/)
 * 2012-11-15 - 13 posts - [5 color mana base tips?(Scion of the Ur-Dragon)](https://www.reddit.com/r/EDH/comments/138048/5_color_mana_base_tipsscion_of_the_urdragon/)
 
-##Discussions and articles on other sites
+## Discussions and articles on other sites
 
 * Updated often - [TappedOut - Best 100$ Budget "Tier-1 Styled" 5 Color Mana Base](http://tappedout.net/mtg-decks/under-100-budget-5-color-mana-base-for-edh/)
 * 2018-02-20 - [Article - WALLET WARRIORS: 5 Color Budget Mana Base](http://www.flipsidegaming.com/blogs/magic-blog/wallet-warriors-5-color-budget-mana-base)
@@ -56,6 +56,6 @@ Budget five colour mana bases
 * 2016-08-01 - [Article - 5-Color Commander: Building a Budget Mana Base](https://www.coolstuffinc.com/a/edgrabianowski-08012016-5-color-commander-building-a-budget-mana-base/)
 * 2016-04-26 - [Tolarian Community College - How To Build a 5 Color EDH / Commander Mana Base for Magic: The Gathering](https://www.youtube.com/watch?v=UleH4wxzONA)
 
-##Other suggestions
+## Other suggestions
 
 * Do an EDHrec or TappedOut search for five colour decks with price limit to get a sense of what people have done in the past.

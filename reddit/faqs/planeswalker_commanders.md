@@ -1,6 +1,6 @@
 What if ______ could be a commander?
 
-##Planeswalkers
+## Planeswalkers
 
 **Count so far: 31**
 
@@ -36,7 +36,7 @@ What if ______ could be a commander?
 * 2015-03-20 - 45 posts - [If you could make any planeswalker your commander, which would it be?](https://www.reddit.com/r/EDH/comments/2zpzae/if_you_could_make_any_planeswalker_your_commander/)
 * 2014-04-15 - 26 posts - [Discussion- Planeswalkers As Commanders?](https://www.reddit.com/r/EDH/comments/2327tr/discussion_planeswalkers_as_commanders/)
 
-##Other things
+## Other things
 
 * 2019-03-26 - 29 posts - [Why can't we just legalize the Kamigawa flip-into-legends creatures already?](https://www.reddit.com/r/EDH/comments/b5irs2/why_cant_we_just_legalize_the_kamigawa/)
 * 2017-09-04 - 142 posts - [What legendary permanent would make a ridiculous commander ](https://www.reddit.com/r/EDH/comments/6y109i/what_legendary_permanent_would_make_a_ridiculous/)

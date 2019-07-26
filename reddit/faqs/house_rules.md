@@ -2,7 +2,7 @@ What are your house rules?
 
 **Count so far:** 36
 
-##General questions
+## General questions
 
 * 2019-04-28 - 40 posts - [Interesting House Rules?](https://www.reddit.com/r/EDH/comments/bidzzt/interesting_house_rules/)
 * 2019-04-27 - 361 posts - [Worst houserules ever?](https://www.reddit.com/r/EDH/comments/bi1wt5/worst_houserules_ever/)
@@ -33,7 +33,7 @@ What are your house rules?
 * 2014-06-03 - 135 posts - [House rules?](https://www.reddit.com/r/EDH/comments/277th7/house_rules/)
 * 2014-02-04 - 200 posts - [Tell us about your group's house rules!](https://www.reddit.com/r/EDH/comments/1wzys1/tell_us_about_your_groups_house_rules/)
 
-##Specific house rules
+## Specific house rules
 
 * 2019-03-29 - 32 posts - [Scoop at sorcery speed?](https://www.reddit.com/r/EDH/comments/b71onh/scoop_at_sorcery_speed/)
 * 2019-02-11 - 46 posts - ["No Search" and other house rules](https://www.reddit.com/r/EDH/comments/apgp9v/no_search_and_other_house_rules/)
