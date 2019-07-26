@@ -162,7 +162,7 @@ Sell me...
 * WR (Boros)
  * 2015-12-05 - 232 posts - [Since Wizards can't seem to do it, tell me some cool boros general ideas!](https://www.reddit.com/r/EDH/comments/3vjufk/since_wizards_cant_seem_to_do_it_tell_me_some/) (Not quite the same idea, but it's worth looking at.)
 
-###Three colour
+### Three colour
 
 * Non-specific 
  * 2016-05-08 - 78 posts - [Sell me on a three color commander!](https://www.reddit.com/r/EDH/comments/4icvvg/sell_me_on_a_three_color_commander/)
