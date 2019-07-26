@@ -16,7 +16,7 @@ Optionally garnish with some lemon peel and brandied cherries.
 
 ***
 
-##Other notes
+## Other notes
 
 This is [Jeffrey Morganthaler's recipe](http://www.jeffreymorgenthaler.com/2012/i-make-the-best-amaretto-sour-in-the-world/), which is very good. He prefers Lazzaroni amaretto, but DiSaronno works as well. He also uses Booker's for the bourbon. 
 
