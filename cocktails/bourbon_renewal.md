@@ -14,6 +14,6 @@ Shake with ice, then strain over fresh ice. Garnish with a lemon wedge.
 
 ***
 
-## Other notes
+## Notes
 
 [Jeffrey Morgenthaler's recipe](http://www.jeffreymorgenthaler.com/2004/bourbon-renewal/).
