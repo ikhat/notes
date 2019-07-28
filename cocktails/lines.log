@@ -1,0 +1,1240 @@
+resolvers       > trees > analyzing '/Users/monolith/Library/texmf'
+
+open source     > level 1, order 1, name '/usr/local/texlive/2018/texmf-dist/tex/context/base/mkiv/cont-yes.mkiv'
+system          > 
+system          > ConTeXt  ver: 2018.04.04 00:51 MKIV beta  fmt: 2019.7.27  int: english/english
+system          > 
+system          > 'cont-new.mkiv' loaded
+open source     > level 2, order 2, name '/usr/local/texlive/2018/texmf-dist/tex/context/base/mkiv/cont-new.mkiv'
+close source    > level 2, order 2, name '/usr/local/texlive/2018/texmf-dist/tex/context/base/mkiv/cont-new.mkiv'
+system          > files > jobname 'lines', input './lines', result 'lines'
+fonts           > latin modern fonts are not preloaded
+languages       > language 'en' is active
+
+tex error       > tex error on line 8 in file /usr/local/texlive/2018/texmf-dist/tex/context/base/mkiv/cont-yes.mkiv: ! I can't find file `./lines'.
+
+l.8 }
+   
+\clf_processjob ...uafunction \16>>clf_processjob 
+                                                  
+l.97 \getvalue{clf_processjob}
+                             % from cont-run.lua
+
+ 1     %D \module
+ 2     %D   [       file=cont-yes,
+ 3     %D        version=2012.06.01,
+ 4     %D          title=\CONTEXT\ Miscellaneous Macros,
+ 5     %D       subtitle=Startup Stub,
+ 6     %D         author=Hans Hagen,
+ 7     %D           date=\currentdate,
+ 8 >>  %D      copyright={PRAGMA ADE \& \CONTEXT\ Development Team}]
+ 9     %C
+10     %C This module is part of the \CONTEXT\ macro||package and is
+11     %C therefore copyrighted by \PRAGMA. See mreadme.pdf for
+12     %C details.
+13     
+14     % At some point I will reconsider the \starttext .. \stoptext
+15     % wraping as we can assume proper styling. It's a left-over from
+16     % mkii that we need to get rid of.
+17     
+18     % now moved to cont-run.lua
+
+Please type another input file name:            resulting working tree file will appear to re-add the content.
+
+tex error       > tex error on line 8 in file /usr/local/texlive/2018/texmf-dist/tex/context/base/mkiv/cont-yes.mkiv: ! I can't find file `resulting'.
+
+l.8 }
+   
+\clf_processjob ...uafunction \16>>clf_processjob 
+                                                  
+l.97 \getvalue{clf_processjob}
+                             % from cont-run.lua
+
+ 1     %D \module
+ 2     %D   [       file=cont-yes,
+ 3     %D        version=2012.06.01,
+ 4     %D          title=\CONTEXT\ Miscellaneous Macros,
+ 5     %D       subtitle=Startup Stub,
+ 6     %D         author=Hans Hagen,
+ 7     %D           date=\currentdate,
+ 8 >>  %D      copyright={PRAGMA ADE \& \CONTEXT\ Development Team}]
+ 9     %C
+10     %C This module is part of the \CONTEXT\ macro||package and is
+11     %C therefore copyrighted by \PRAGMA. See mreadme.pdf for
+12     %C details.
+13     
+14     % At some point I will reconsider the \starttext .. \stoptext
+15     % wraping as we can assume proper styling. It's a left-over from
+16     % mkii that we need to get rid of.
+17     
+18     % now moved to cont-run.lua
+
+Please type another input file name: 
+
+tex error       > tex error on line 8 in file /usr/local/texlive/2018/texmf-dist/tex/context/base/mkiv/cont-yes.mkiv: ! I can't find file `resulting'.
+
+l.8 }
+   
+\clf_processjob ...uafunction \16>>clf_processjob 
+                                                  
+l.97 \getvalue{clf_processjob}
+                             % from cont-run.lua
+
+ 1     %D \module
+ 2     %D   [       file=cont-yes,
+ 3     %D        version=2012.06.01,
+ 4     %D          title=\CONTEXT\ Miscellaneous Macros,
+ 5     %D       subtitle=Startup Stub,
+ 6     %D         author=Hans Hagen,
+ 7     %D           date=\currentdate,
+ 8 >>  %D      copyright={PRAGMA ADE \& \CONTEXT\ Development Team}]
+ 9     %C
+10     %C This module is part of the \CONTEXT\ macro||package and is
+11     %C therefore copyrighted by \PRAGMA. See mreadme.pdf for
+12     %C details.
+13     
+14     % At some point I will reconsider the \starttext .. \stoptext
+15     % wraping as we can assume proper styling. It's a left-over from
+16     % mkii that we need to get rid of.
+17     
+18     % now moved to cont-run.lua
+
+Please type another input file name:        modifying existing content
+
+tex error       > tex error on line 8 in file /usr/local/texlive/2018/texmf-dist/tex/context/base/mkiv/cont-yes.mkiv: ! I can't find file `modifying'.
+
+l.8 }
+   
+\clf_processjob ...uafunction \16>>clf_processjob 
+                                                  
+l.97 \getvalue{clf_processjob}
+                             % from cont-run.lua
+
+ 1     %D \module
+ 2     %D   [       file=cont-yes,
+ 3     %D        version=2012.06.01,
+ 4     %D          title=\CONTEXT\ Miscellaneous Macros,
+ 5     %D       subtitle=Startup Stub,
+ 6     %D         author=Hans Hagen,
+ 7     %D           date=\currentdate,
+ 8 >>  %D      copyright={PRAGMA ADE \& \CONTEXT\ Development Team}]
+ 9     %C
+10     %C This module is part of the \CONTEXT\ macro||package and is
+11     %C therefore copyrighted by \PRAGMA. See mreadme.pdf for
+12     %C details.
+13     
+14     % At some point I will reconsider the \starttext .. \stoptext
+15     % wraping as we can assume proper styling. It's a left-over from
+16     % mkii that we need to get rid of.
+17     
+18     % now moved to cont-run.lua
+
+Please type another input file name:            One can also modify context lines by staging them for removal (by
+
+tex error       > tex error on line 8 in file /usr/local/texlive/2018/texmf-dist/tex/context/base/mkiv/cont-yes.mkiv: ! I can't find file `One'.
+
+l.8 }
+   
+\clf_processjob ...uafunction \16>>clf_processjob 
+                                                  
+l.97 \getvalue{clf_processjob}
+                             % from cont-run.lua
+
+ 1     %D \module
+ 2     %D   [       file=cont-yes,
+ 3     %D        version=2012.06.01,
+ 4     %D          title=\CONTEXT\ Miscellaneous Macros,
+ 5     %D       subtitle=Startup Stub,
+ 6     %D         author=Hans Hagen,
+ 7     %D           date=\currentdate,
+ 8 >>  %D      copyright={PRAGMA ADE \& \CONTEXT\ Development Team}]
+ 9     %C
+10     %C This module is part of the \CONTEXT\ macro||package and is
+11     %C therefore copyrighted by \PRAGMA. See mreadme.pdf for
+12     %C details.
+13     
+14     % At some point I will reconsider the \starttext .. \stoptext
+15     % wraping as we can assume proper styling. It's a left-over from
+16     % mkii that we need to get rid of.
+17     
+18     % now moved to cont-run.lua
+
+Please type another input file name:            converting " " to "-") and adding a "+" line with the new content.
+
+tex error       > tex error on line 8 in file /usr/local/texlive/2018/texmf-dist/tex/context/base/mkiv/cont-yes.mkiv: ! I can't find file `converting'.
+
+l.8 }
+   
+\clf_processjob ...uafunction \16>>clf_processjob 
+                                                  
+l.97 \getvalue{clf_processjob}
+                             % from cont-run.lua
+
+ 1     %D \module
+ 2     %D   [       file=cont-yes,
+ 3     %D        version=2012.06.01,
+ 4     %D          title=\CONTEXT\ Miscellaneous Macros,
+ 5     %D       subtitle=Startup Stub,
+ 6     %D         author=Hans Hagen,
+ 7     %D           date=\currentdate,
+ 8 >>  %D      copyright={PRAGMA ADE \& \CONTEXT\ Development Team}]
+ 9     %C
+10     %C This module is part of the \CONTEXT\ macro||package and is
+11     %C therefore copyrighted by \PRAGMA. See mreadme.pdf for
+12     %C details.
+13     
+14     % At some point I will reconsider the \starttext .. \stoptext
+15     % wraping as we can assume proper styling. It's a left-over from
+16     % mkii that we need to get rid of.
+17     
+18     % now moved to cont-run.lua
+
+Please type another input file name:            Similarly, one can modify "+" lines for existing additions or
+
+tex error       > tex error on line 8 in file /usr/local/texlive/2018/texmf-dist/tex/context/base/mkiv/cont-yes.mkiv: ! I can't find file `Similarly,'.
+
+l.8 }
+   
+\clf_processjob ...uafunction \16>>clf_processjob 
+                                                  
+l.97 \getvalue{clf_processjob}
+                             % from cont-run.lua
+
+ 1     %D \module
+ 2     %D   [       file=cont-yes,
+ 3     %D        version=2012.06.01,
+ 4     %D          title=\CONTEXT\ Miscellaneous Macros,
+ 5     %D       subtitle=Startup Stub,
+ 6     %D         author=Hans Hagen,
+ 7     %D           date=\currentdate,
+ 8 >>  %D      copyright={PRAGMA ADE \& \CONTEXT\ Development Team}]
+ 9     %C
+10     %C This module is part of the \CONTEXT\ macro||package and is
+11     %C therefore copyrighted by \PRAGMA. See mreadme.pdf for
+12     %C details.
+13     
+14     % At some point I will reconsider the \starttext .. \stoptext
+15     % wraping as we can assume proper styling. It's a left-over from
+16     % mkii that we need to get rid of.
+17     
+18     % now moved to cont-run.lua
+
+Please type another input file name:            modifications. In all cases, the new modification will appear reverted
+
+tex error       > tex error on line 8 in file /usr/local/texlive/2018/texmf-dist/tex/context/base/mkiv/cont-yes.mkiv: ! I can't find file `modifications.'.
+
+l.8 }
+   
+\clf_processjob ...uafunction \16>>clf_processjob 
+                                                  
+l.97 \getvalue{clf_processjob}
+                             % from cont-run.lua
+
+ 1     %D \module
+ 2     %D   [       file=cont-yes,
+ 3     %D        version=2012.06.01,
+ 4     %D          title=\CONTEXT\ Miscellaneous Macros,
+ 5     %D       subtitle=Startup Stub,
+ 6     %D         author=Hans Hagen,
+ 7     %D           date=\currentdate,
+ 8 >>  %D      copyright={PRAGMA ADE \& \CONTEXT\ Development Team}]
+ 9     %C
+10     %C This module is part of the \CONTEXT\ macro||package and is
+11     %C therefore copyrighted by \PRAGMA. See mreadme.pdf for
+12     %C details.
+13     
+14     % At some point I will reconsider the \starttext .. \stoptext
+15     % wraping as we can assume proper styling. It's a left-over from
+16     % mkii that we need to get rid of.
+17     
+18     % now moved to cont-run.lua
+
+Please type another input file name:            in the working tree.
+
+tex error       > tex error on line 8 in file /usr/local/texlive/2018/texmf-dist/tex/context/base/mkiv/cont-yes.mkiv: ! I can't find file `in'.
+
+l.8 }
+   
+\clf_processjob ...uafunction \16>>clf_processjob 
+                                                  
+l.97 \getvalue{clf_processjob}
+                             % from cont-run.lua
+
+ 1     %D \module
+ 2     %D   [       file=cont-yes,
+ 3     %D        version=2012.06.01,
+ 4     %D          title=\CONTEXT\ Miscellaneous Macros,
+ 5     %D       subtitle=Startup Stub,
+ 6     %D         author=Hans Hagen,
+ 7     %D           date=\currentdate,
+ 8 >>  %D      copyright={PRAGMA ADE \& \CONTEXT\ Development Team}]
+ 9     %C
+10     %C This module is part of the \CONTEXT\ macro||package and is
+11     %C therefore copyrighted by \PRAGMA. See mreadme.pdf for
+12     %C details.
+13     
+14     % At some point I will reconsider the \starttext .. \stoptext
+15     % wraping as we can assume proper styling. It's a left-over from
+16     % mkii that we need to get rid of.
+17     
+18     % now moved to cont-run.lua
+
+Please type another input file name: 
+
+tex error       > tex error on line 8 in file /usr/local/texlive/2018/texmf-dist/tex/context/base/mkiv/cont-yes.mkiv: ! I can't find file `in'.
+
+l.8 }
+   
+\clf_processjob ...uafunction \16>>clf_processjob 
+                                                  
+l.97 \getvalue{clf_processjob}
+                             % from cont-run.lua
+
+ 1     %D \module
+ 2     %D   [       file=cont-yes,
+ 3     %D        version=2012.06.01,
+ 4     %D          title=\CONTEXT\ Miscellaneous Macros,
+ 5     %D       subtitle=Startup Stub,
+ 6     %D         author=Hans Hagen,
+ 7     %D           date=\currentdate,
+ 8 >>  %D      copyright={PRAGMA ADE \& \CONTEXT\ Development Team}]
+ 9     %C
+10     %C This module is part of the \CONTEXT\ macro||package and is
+11     %C therefore copyrighted by \PRAGMA. See mreadme.pdf for
+12     %C details.
+13     
+14     % At some point I will reconsider the \starttext .. \stoptext
+15     % wraping as we can assume proper styling. It's a left-over from
+16     % mkii that we need to get rid of.
+17     
+18     % now moved to cont-run.lua
+
+Please type another input file name: [notes] $ echo $PATH
+
+tex error       > tex error on line 8 in file /usr/local/texlive/2018/texmf-dist/tex/context/base/mkiv/cont-yes.mkiv: ! I can't find file `[notes]'.
+
+l.8 }
+   
+\clf_processjob ...uafunction \16>>clf_processjob 
+                                                  
+l.97 \getvalue{clf_processjob}
+                             % from cont-run.lua
+
+ 1     %D \module
+ 2     %D   [       file=cont-yes,
+ 3     %D        version=2012.06.01,
+ 4     %D          title=\CONTEXT\ Miscellaneous Macros,
+ 5     %D       subtitle=Startup Stub,
+ 6     %D         author=Hans Hagen,
+ 7     %D           date=\currentdate,
+ 8 >>  %D      copyright={PRAGMA ADE \& \CONTEXT\ Development Team}]
+ 9     %C
+10     %C This module is part of the \CONTEXT\ macro||package and is
+11     %C therefore copyrighted by \PRAGMA. See mreadme.pdf for
+12     %C details.
+13     
+14     % At some point I will reconsider the \starttext .. \stoptext
+15     % wraping as we can assume proper styling. It's a left-over from
+16     % mkii that we need to get rid of.
+17     
+18     % now moved to cont-run.lua
+
+Please type another input file name: /Library/Frameworks/Python.framework/Versions/3.5/bin:/Library/Frameworks/Python.framework/Versions/3.3/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/TeX/texbin:/Users/monolith/android-sdk-macosx/tools:/Users/monolith/android-sdk-macosx/platform-tools
+
+tex error       > tex error on line 8 in file /usr/local/texlive/2018/texmf-dist/tex/context/base/mkiv/cont-yes.mkiv: ! I can't find file `/Library/Frameworks/Python.framework/Versions/3.5/bin:/Library/Frameworks/Python.framework/Versions/3.3/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/TeX/texbin:/Users/monolith/android-sdk-macosx/tools:/Users/monolith/andro
+
+l.8 }
+   
+\clf_processjob ...uafunction \16>>clf_processjob 
+                                                  
+l.97 \getvalue{clf_processjob}
+                             % from cont-run.lua
+
+ 1     %D \module
+ 2     %D   [       file=cont-yes,
+ 3     %D        version=2012.06.01,
+ 4     %D          title=\CONTEXT\ Miscellaneous Macros,
+ 5     %D       subtitle=Startup Stub,
+ 6     %D         author=Hans Hagen,
+ 7     %D           date=\currentdate,
+ 8 >>  %D      copyright={PRAGMA ADE \& \CONTEXT\ Development Team}]
+ 9     %C
+10     %C This module is part of the \CONTEXT\ macro||package and is
+11     %C therefore copyrighted by \PRAGMA. See mreadme.pdf for
+12     %C details.
+13     
+14     % At some point I will reconsider the \starttext .. \stoptext
+15     % wraping as we can assume proper styling. It's a left-over from
+16     % mkii that we need to get rid of.
+17     
+18     % now moved to cont-run.lua
+
+Please type another input file name: [notes] $ man git commit
+
+tex error       > tex error on line 8 in file /usr/local/texlive/2018/texmf-dist/tex/context/base/mkiv/cont-yes.mkiv: ! I can't find file `[notes]'.
+
+l.8 }
+   
+\clf_processjob ...uafunction \16>>clf_processjob 
+                                                  
+l.97 \getvalue{clf_processjob}
+                             % from cont-run.lua
+
+ 1     %D \module
+ 2     %D   [       file=cont-yes,
+ 3     %D        version=2012.06.01,
+ 4     %D          title=\CONTEXT\ Miscellaneous Macros,
+ 5     %D       subtitle=Startup Stub,
+ 6     %D         author=Hans Hagen,
+ 7     %D           date=\currentdate,
+ 8 >>  %D      copyright={PRAGMA ADE \& \CONTEXT\ Development Team}]
+ 9     %C
+10     %C This module is part of the \CONTEXT\ macro||package and is
+11     %C therefore copyrighted by \PRAGMA. See mreadme.pdf for
+12     %C details.
+13     
+14     % At some point I will reconsider the \starttext .. \stoptext
+15     % wraping as we can assume proper styling. It's a left-over from
+16     % mkii that we need to get rid of.
+17     
+18     % now moved to cont-run.lua
+
+Please type another input file name: No manual entry for commit
+
+tex error       > tex error on line 8 in file /usr/local/texlive/2018/texmf-dist/tex/context/base/mkiv/cont-yes.mkiv: ! I can't find file `No'.
+
+l.8 }
+   
+\clf_processjob ...uafunction \16>>clf_processjob 
+                                                  
+l.97 \getvalue{clf_processjob}
+                             % from cont-run.lua
+
+ 1     %D \module
+ 2     %D   [       file=cont-yes,
+ 3     %D        version=2012.06.01,
+ 4     %D          title=\CONTEXT\ Miscellaneous Macros,
+ 5     %D       subtitle=Startup Stub,
+ 6     %D         author=Hans Hagen,
+ 7     %D           date=\currentdate,
+ 8 >>  %D      copyright={PRAGMA ADE \& \CONTEXT\ Development Team}]
+ 9     %C
+10     %C This module is part of the \CONTEXT\ macro||package and is
+11     %C therefore copyrighted by \PRAGMA. See mreadme.pdf for
+12     %C details.
+13     
+14     % At some point I will reconsider the \starttext .. \stoptext
+15     % wraping as we can assume proper styling. It's a left-over from
+16     % mkii that we need to get rid of.
+17     
+18     % now moved to cont-run.lua
+
+Please type another input file name: [notes] $ man git-commit
+
+tex error       > tex error on line 8 in file /usr/local/texlive/2018/texmf-dist/tex/context/base/mkiv/cont-yes.mkiv: ! I can't find file `[notes]'.
+
+l.8 }
+   
+\clf_processjob ...uafunction \16>>clf_processjob 
+                                                  
+l.97 \getvalue{clf_processjob}
+                             % from cont-run.lua
+
+ 1     %D \module
+ 2     %D   [       file=cont-yes,
+ 3     %D        version=2012.06.01,
+ 4     %D          title=\CONTEXT\ Miscellaneous Macros,
+ 5     %D       subtitle=Startup Stub,
+ 6     %D         author=Hans Hagen,
+ 7     %D           date=\currentdate,
+ 8 >>  %D      copyright={PRAGMA ADE \& \CONTEXT\ Development Team}]
+ 9     %C
+10     %C This module is part of the \CONTEXT\ macro||package and is
+11     %C therefore copyrighted by \PRAGMA. See mreadme.pdf for
+12     %C details.
+13     
+14     % At some point I will reconsider the \starttext .. \stoptext
+15     % wraping as we can assume proper styling. It's a left-over from
+16     % mkii that we need to get rid of.
+17     
+18     % now moved to cont-run.lua
+
+Please type another input file name: [notes] $ man git-add
+
+tex error       > tex error on line 8 in file /usr/local/texlive/2018/texmf-dist/tex/context/base/mkiv/cont-yes.mkiv: ! I can't find file `[notes]'.
+
+l.8 }
+   
+\clf_processjob ...uafunction \16>>clf_processjob 
+                                                  
+l.97 \getvalue{clf_processjob}
+                             % from cont-run.lua
+
+ 1     %D \module
+ 2     %D   [       file=cont-yes,
+ 3     %D        version=2012.06.01,
+ 4     %D          title=\CONTEXT\ Miscellaneous Macros,
+ 5     %D       subtitle=Startup Stub,
+ 6     %D         author=Hans Hagen,
+ 7     %D           date=\currentdate,
+ 8 >>  %D      copyright={PRAGMA ADE \& \CONTEXT\ Development Team}]
+ 9     %C
+10     %C This module is part of the \CONTEXT\ macro||package and is
+11     %C therefore copyrighted by \PRAGMA. See mreadme.pdf for
+12     %C details.
+13     
+14     % At some point I will reconsider the \starttext .. \stoptext
+15     % wraping as we can assume proper styling. It's a left-over from
+16     % mkii that we need to get rid of.
+17     
+18     % now moved to cont-run.lua
+
+Please type another input file name: [notes] $ source ~/.bash_profile
+
+tex error       > tex error on line 8 in file /usr/local/texlive/2018/texmf-dist/tex/context/base/mkiv/cont-yes.mkiv: ! I can't find file `[notes]'.
+
+l.8 }
+   
+\clf_processjob ...uafunction \16>>clf_processjob 
+                                                  
+l.97 \getvalue{clf_processjob}
+                             % from cont-run.lua
+
+ 1     %D \module
+ 2     %D   [       file=cont-yes,
+ 3     %D        version=2012.06.01,
+ 4     %D          title=\CONTEXT\ Miscellaneous Macros,
+ 5     %D       subtitle=Startup Stub,
+ 6     %D         author=Hans Hagen,
+ 7     %D           date=\currentdate,
+ 8 >>  %D      copyright={PRAGMA ADE \& \CONTEXT\ Development Team}]
+ 9     %C
+10     %C This module is part of the \CONTEXT\ macro||package and is
+11     %C therefore copyrighted by \PRAGMA. See mreadme.pdf for
+12     %C details.
+13     
+14     % At some point I will reconsider the \starttext .. \stoptext
+15     % wraping as we can assume proper styling. It's a left-over from
+16     % mkii that we need to get rid of.
+17     
+18     % now moved to cont-run.lua
+
+Please type another input file name: [notes] $ notes
+
+tex error       > tex error on line 8 in file /usr/local/texlive/2018/texmf-dist/tex/context/base/mkiv/cont-yes.mkiv: ! I can't find file `[notes]'.
+
+l.8 }
+   
+\clf_processjob ...uafunction \16>>clf_processjob 
+                                                  
+l.97 \getvalue{clf_processjob}
+                             % from cont-run.lua
+
+ 1     %D \module
+ 2     %D   [       file=cont-yes,
+ 3     %D        version=2012.06.01,
+ 4     %D          title=\CONTEXT\ Miscellaneous Macros,
+ 5     %D       subtitle=Startup Stub,
+ 6     %D         author=Hans Hagen,
+ 7     %D           date=\currentdate,
+ 8 >>  %D      copyright={PRAGMA ADE \& \CONTEXT\ Development Team}]
+ 9     %C
+10     %C This module is part of the \CONTEXT\ macro||package and is
+11     %C therefore copyrighted by \PRAGMA. See mreadme.pdf for
+12     %C details.
+13     
+14     % At some point I will reconsider the \starttext .. \stoptext
+15     % wraping as we can assume proper styling. It's a left-over from
+16     % mkii that we need to get rid of.
+17     
+18     % now moved to cont-run.lua
+
+Please type another input file name: Aborting commit due to empty commit message.
+
+tex error       > tex error on line 8 in file /usr/local/texlive/2018/texmf-dist/tex/context/base/mkiv/cont-yes.mkiv: ! I can't find file `Aborting'.
+
+l.8 }
+   
+\clf_processjob ...uafunction \16>>clf_processjob 
+                                                  
+l.97 \getvalue{clf_processjob}
+                             % from cont-run.lua
+
+ 1     %D \module
+ 2     %D   [       file=cont-yes,
+ 3     %D        version=2012.06.01,
+ 4     %D          title=\CONTEXT\ Miscellaneous Macros,
+ 5     %D       subtitle=Startup Stub,
+ 6     %D         author=Hans Hagen,
+ 7     %D           date=\currentdate,
+ 8 >>  %D      copyright={PRAGMA ADE \& \CONTEXT\ Development Team}]
+ 9     %C
+10     %C This module is part of the \CONTEXT\ macro||package and is
+11     %C therefore copyrighted by \PRAGMA. See mreadme.pdf for
+12     %C details.
+13     
+14     % At some point I will reconsider the \starttext .. \stoptext
+15     % wraping as we can assume proper styling. It's a left-over from
+16     % mkii that we need to get rid of.
+17     
+18     % now moved to cont-run.lua
+
+Please type another input file name: Everything up-to-date
+
+tex error       > tex error on line 8 in file /usr/local/texlive/2018/texmf-dist/tex/context/base/mkiv/cont-yes.mkiv: ! I can't find file `Everything'.
+
+l.8 }
+   
+\clf_processjob ...uafunction \16>>clf_processjob 
+                                                  
+l.97 \getvalue{clf_processjob}
+                             % from cont-run.lua
+
+ 1     %D \module
+ 2     %D   [       file=cont-yes,
+ 3     %D        version=2012.06.01,
+ 4     %D          title=\CONTEXT\ Miscellaneous Macros,
+ 5     %D       subtitle=Startup Stub,
+ 6     %D         author=Hans Hagen,
+ 7     %D           date=\currentdate,
+ 8 >>  %D      copyright={PRAGMA ADE \& \CONTEXT\ Development Team}]
+ 9     %C
+10     %C This module is part of the \CONTEXT\ macro||package and is
+11     %C therefore copyrighted by \PRAGMA. See mreadme.pdf for
+12     %C details.
+13     
+14     % At some point I will reconsider the \starttext .. \stoptext
+15     % wraping as we can assume proper styling. It's a left-over from
+16     % mkii that we need to get rid of.
+17     
+18     % now moved to cont-run.lua
+
+Please type another input file name: [notes] $ source ~/.bash_profile
+
+tex error       > tex error on line 8 in file /usr/local/texlive/2018/texmf-dist/tex/context/base/mkiv/cont-yes.mkiv: ! I can't find file `[notes]'.
+
+l.8 }
+   
+\clf_processjob ...uafunction \16>>clf_processjob 
+                                                  
+l.97 \getvalue{clf_processjob}
+                             % from cont-run.lua
+
+ 1     %D \module
+ 2     %D   [       file=cont-yes,
+ 3     %D        version=2012.06.01,
+ 4     %D          title=\CONTEXT\ Miscellaneous Macros,
+ 5     %D       subtitle=Startup Stub,
+ 6     %D         author=Hans Hagen,
+ 7     %D           date=\currentdate,
+ 8 >>  %D      copyright={PRAGMA ADE \& \CONTEXT\ Development Team}]
+ 9     %C
+10     %C This module is part of the \CONTEXT\ macro||package and is
+11     %C therefore copyrighted by \PRAGMA. See mreadme.pdf for
+12     %C details.
+13     
+14     % At some point I will reconsider the \starttext .. \stoptext
+15     % wraping as we can assume proper styling. It's a left-over from
+16     % mkii that we need to get rid of.
+17     
+18     % now moved to cont-run.lua
+
+Please type another input file name: -bash: /Users/monolith/.bash_profile: line 46: syntax error near unexpected token `}'
+
+tex error       > tex error on line 8 in file /usr/local/texlive/2018/texmf-dist/tex/context/base/mkiv/cont-yes.mkiv: ! I can't find file `-bash:'.
+
+l.8 }
+   
+\clf_processjob ...uafunction \16>>clf_processjob 
+                                                  
+l.97 \getvalue{clf_processjob}
+                             % from cont-run.lua
+
+ 1     %D \module
+ 2     %D   [       file=cont-yes,
+ 3     %D        version=2012.06.01,
+ 4     %D          title=\CONTEXT\ Miscellaneous Macros,
+ 5     %D       subtitle=Startup Stub,
+ 6     %D         author=Hans Hagen,
+ 7     %D           date=\currentdate,
+ 8 >>  %D      copyright={PRAGMA ADE \& \CONTEXT\ Development Team}]
+ 9     %C
+10     %C This module is part of the \CONTEXT\ macro||package and is
+11     %C therefore copyrighted by \PRAGMA. See mreadme.pdf for
+12     %C details.
+13     
+14     % At some point I will reconsider the \starttext .. \stoptext
+15     % wraping as we can assume proper styling. It's a left-over from
+16     % mkii that we need to get rid of.
+17     
+18     % now moved to cont-run.lua
+
+Please type another input file name: -bash: /Users/monolith/.bash_profile: line 46: `}'
+
+tex error       > tex error on line 8 in file /usr/local/texlive/2018/texmf-dist/tex/context/base/mkiv/cont-yes.mkiv: ! I can't find file `-bash:'.
+
+l.8 }
+   
+\clf_processjob ...uafunction \16>>clf_processjob 
+                                                  
+l.97 \getvalue{clf_processjob}
+                             % from cont-run.lua
+
+ 1     %D \module
+ 2     %D   [       file=cont-yes,
+ 3     %D        version=2012.06.01,
+ 4     %D          title=\CONTEXT\ Miscellaneous Macros,
+ 5     %D       subtitle=Startup Stub,
+ 6     %D         author=Hans Hagen,
+ 7     %D           date=\currentdate,
+ 8 >>  %D      copyright={PRAGMA ADE \& \CONTEXT\ Development Team}]
+ 9     %C
+10     %C This module is part of the \CONTEXT\ macro||package and is
+11     %C therefore copyrighted by \PRAGMA. See mreadme.pdf for
+12     %C details.
+13     
+14     % At some point I will reconsider the \starttext .. \stoptext
+15     % wraping as we can assume proper styling. It's a left-over from
+16     % mkii that we need to get rid of.
+17     
+18     % now moved to cont-run.lua
+
+Please type another input file name: [notes] $ source ~/.bash_profile
+
+tex error       > tex error on line 8 in file /usr/local/texlive/2018/texmf-dist/tex/context/base/mkiv/cont-yes.mkiv: ! I can't find file `[notes]'.
+
+l.8 }
+   
+\clf_processjob ...uafunction \16>>clf_processjob 
+                                                  
+l.97 \getvalue{clf_processjob}
+                             % from cont-run.lua
+
+ 1     %D \module
+ 2     %D   [       file=cont-yes,
+ 3     %D        version=2012.06.01,
+ 4     %D          title=\CONTEXT\ Miscellaneous Macros,
+ 5     %D       subtitle=Startup Stub,
+ 6     %D         author=Hans Hagen,
+ 7     %D           date=\currentdate,
+ 8 >>  %D      copyright={PRAGMA ADE \& \CONTEXT\ Development Team}]
+ 9     %C
+10     %C This module is part of the \CONTEXT\ macro||package and is
+11     %C therefore copyrighted by \PRAGMA. See mreadme.pdf for
+12     %C details.
+13     
+14     % At some point I will reconsider the \starttext .. \stoptext
+15     % wraping as we can assume proper styling. It's a left-over from
+16     % mkii that we need to get rid of.
+17     
+18     % now moved to cont-run.lua
+
+Please type another input file name: [notes] $ notes
+
+tex error       > tex error on line 8 in file /usr/local/texlive/2018/texmf-dist/tex/context/base/mkiv/cont-yes.mkiv: ! I can't find file `[notes]'.
+
+l.8 }
+   
+\clf_processjob ...uafunction \16>>clf_processjob 
+                                                  
+l.97 \getvalue{clf_processjob}
+                             % from cont-run.lua
+
+ 1     %D \module
+ 2     %D   [       file=cont-yes,
+ 3     %D        version=2012.06.01,
+ 4     %D          title=\CONTEXT\ Miscellaneous Macros,
+ 5     %D       subtitle=Startup Stub,
+ 6     %D         author=Hans Hagen,
+ 7     %D           date=\currentdate,
+ 8 >>  %D      copyright={PRAGMA ADE \& \CONTEXT\ Development Team}]
+ 9     %C
+10     %C This module is part of the \CONTEXT\ macro||package and is
+11     %C therefore copyrighted by \PRAGMA. See mreadme.pdf for
+12     %C details.
+13     
+14     % At some point I will reconsider the \starttext .. \stoptext
+15     % wraping as we can assume proper styling. It's a left-over from
+16     % mkii that we need to get rid of.
+17     
+18     % now moved to cont-run.lua
+
+Please type another input file name: [master 51082ce] commitMessage
+
+tex error       > tex error on line 8 in file /usr/local/texlive/2018/texmf-dist/tex/context/base/mkiv/cont-yes.mkiv: ! I can't find file `[master'.
+
+l.8 }
+   
+\clf_processjob ...uafunction \16>>clf_processjob 
+                                                  
+l.97 \getvalue{clf_processjob}
+                             % from cont-run.lua
+
+ 1     %D \module
+ 2     %D   [       file=cont-yes,
+ 3     %D        version=2012.06.01,
+ 4     %D          title=\CONTEXT\ Miscellaneous Macros,
+ 5     %D       subtitle=Startup Stub,
+ 6     %D         author=Hans Hagen,
+ 7     %D           date=\currentdate,
+ 8 >>  %D      copyright={PRAGMA ADE \& \CONTEXT\ Development Team}]
+ 9     %C
+10     %C This module is part of the \CONTEXT\ macro||package and is
+11     %C therefore copyrighted by \PRAGMA. See mreadme.pdf for
+12     %C details.
+13     
+14     % At some point I will reconsider the \starttext .. \stoptext
+15     % wraping as we can assume proper styling. It's a left-over from
+16     % mkii that we need to get rid of.
+17     
+18     % now moved to cont-run.lua
+
+Please type another input file name:  Committer: Ivan Khatchatourian <monolith@ivan-mbp.local>
+
+tex error       > tex error on line 8 in file /usr/local/texlive/2018/texmf-dist/tex/context/base/mkiv/cont-yes.mkiv: ! I can't find file `Committer:'.
+
+l.8 }
+   
+\clf_processjob ...uafunction \16>>clf_processjob 
+                                                  
+l.97 \getvalue{clf_processjob}
+                             % from cont-run.lua
+
+ 1     %D \module
+ 2     %D   [       file=cont-yes,
+ 3     %D        version=2012.06.01,
+ 4     %D          title=\CONTEXT\ Miscellaneous Macros,
+ 5     %D       subtitle=Startup Stub,
+ 6     %D         author=Hans Hagen,
+ 7     %D           date=\currentdate,
+ 8 >>  %D      copyright={PRAGMA ADE \& \CONTEXT\ Development Team}]
+ 9     %C
+10     %C This module is part of the \CONTEXT\ macro||package and is
+11     %C therefore copyrighted by \PRAGMA. See mreadme.pdf for
+12     %C details.
+13     
+14     % At some point I will reconsider the \starttext .. \stoptext
+15     % wraping as we can assume proper styling. It's a left-over from
+16     % mkii that we need to get rid of.
+17     
+18     % now moved to cont-run.lua
+
+Please type another input file name: Your name and email address were configured automatically based
+
+tex error       > tex error on line 8 in file /usr/local/texlive/2018/texmf-dist/tex/context/base/mkiv/cont-yes.mkiv: ! I can't find file `Your'.
+
+l.8 }
+   
+\clf_processjob ...uafunction \16>>clf_processjob 
+                                                  
+l.97 \getvalue{clf_processjob}
+                             % from cont-run.lua
+
+ 1     %D \module
+ 2     %D   [       file=cont-yes,
+ 3     %D        version=2012.06.01,
+ 4     %D          title=\CONTEXT\ Miscellaneous Macros,
+ 5     %D       subtitle=Startup Stub,
+ 6     %D         author=Hans Hagen,
+ 7     %D           date=\currentdate,
+ 8 >>  %D      copyright={PRAGMA ADE \& \CONTEXT\ Development Team}]
+ 9     %C
+10     %C This module is part of the \CONTEXT\ macro||package and is
+11     %C therefore copyrighted by \PRAGMA. See mreadme.pdf for
+12     %C details.
+13     
+14     % At some point I will reconsider the \starttext .. \stoptext
+15     % wraping as we can assume proper styling. It's a left-over from
+16     % mkii that we need to get rid of.
+17     
+18     % now moved to cont-run.lua
+
+Please type another input file name: on your username and hostname. Please check that they are accurate.
+
+tex error       > tex error on line 8 in file /usr/local/texlive/2018/texmf-dist/tex/context/base/mkiv/cont-yes.mkiv: ! I can't find file `on'.
+
+l.8 }
+   
+\clf_processjob ...uafunction \16>>clf_processjob 
+                                                  
+l.97 \getvalue{clf_processjob}
+                             % from cont-run.lua
+
+ 1     %D \module
+ 2     %D   [       file=cont-yes,
+ 3     %D        version=2012.06.01,
+ 4     %D          title=\CONTEXT\ Miscellaneous Macros,
+ 5     %D       subtitle=Startup Stub,
+ 6     %D         author=Hans Hagen,
+ 7     %D           date=\currentdate,
+ 8 >>  %D      copyright={PRAGMA ADE \& \CONTEXT\ Development Team}]
+ 9     %C
+10     %C This module is part of the \CONTEXT\ macro||package and is
+11     %C therefore copyrighted by \PRAGMA. See mreadme.pdf for
+12     %C details.
+13     
+14     % At some point I will reconsider the \starttext .. \stoptext
+15     % wraping as we can assume proper styling. It's a left-over from
+16     % mkii that we need to get rid of.
+17     
+18     % now moved to cont-run.lua
+
+Please type another input file name: You can suppress this message by setting them explicitly:
+
+tex error       > tex error on line 8 in file /usr/local/texlive/2018/texmf-dist/tex/context/base/mkiv/cont-yes.mkiv: ! I can't find file `You'.
+
+l.8 }
+   
+\clf_processjob ...uafunction \16>>clf_processjob 
+                                                  
+l.97 \getvalue{clf_processjob}
+                             % from cont-run.lua
+
+ 1     %D \module
+ 2     %D   [       file=cont-yes,
+ 3     %D        version=2012.06.01,
+ 4     %D          title=\CONTEXT\ Miscellaneous Macros,
+ 5     %D       subtitle=Startup Stub,
+ 6     %D         author=Hans Hagen,
+ 7     %D           date=\currentdate,
+ 8 >>  %D      copyright={PRAGMA ADE \& \CONTEXT\ Development Team}]
+ 9     %C
+10     %C This module is part of the \CONTEXT\ macro||package and is
+11     %C therefore copyrighted by \PRAGMA. See mreadme.pdf for
+12     %C details.
+13     
+14     % At some point I will reconsider the \starttext .. \stoptext
+15     % wraping as we can assume proper styling. It's a left-over from
+16     % mkii that we need to get rid of.
+17     
+18     % now moved to cont-run.lua
+
+Please type another input file name: 
+
+tex error       > tex error on line 8 in file /usr/local/texlive/2018/texmf-dist/tex/context/base/mkiv/cont-yes.mkiv: ! I can't find file `You'.
+
+l.8 }
+   
+\clf_processjob ...uafunction \16>>clf_processjob 
+                                                  
+l.97 \getvalue{clf_processjob}
+                             % from cont-run.lua
+
+ 1     %D \module
+ 2     %D   [       file=cont-yes,
+ 3     %D        version=2012.06.01,
+ 4     %D          title=\CONTEXT\ Miscellaneous Macros,
+ 5     %D       subtitle=Startup Stub,
+ 6     %D         author=Hans Hagen,
+ 7     %D           date=\currentdate,
+ 8 >>  %D      copyright={PRAGMA ADE \& \CONTEXT\ Development Team}]
+ 9     %C
+10     %C This module is part of the \CONTEXT\ macro||package and is
+11     %C therefore copyrighted by \PRAGMA. See mreadme.pdf for
+12     %C details.
+13     
+14     % At some point I will reconsider the \starttext .. \stoptext
+15     % wraping as we can assume proper styling. It's a left-over from
+16     % mkii that we need to get rid of.
+17     
+18     % now moved to cont-run.lua
+
+Please type another input file name:     git config --global user.name "Your Name"
+
+tex error       > tex error on line 8 in file /usr/local/texlive/2018/texmf-dist/tex/context/base/mkiv/cont-yes.mkiv: ! I can't find file `git'.
+
+l.8 }
+   
+\clf_processjob ...uafunction \16>>clf_processjob 
+                                                  
+l.97 \getvalue{clf_processjob}
+                             % from cont-run.lua
+
+ 1     %D \module
+ 2     %D   [       file=cont-yes,
+ 3     %D        version=2012.06.01,
+ 4     %D          title=\CONTEXT\ Miscellaneous Macros,
+ 5     %D       subtitle=Startup Stub,
+ 6     %D         author=Hans Hagen,
+ 7     %D           date=\currentdate,
+ 8 >>  %D      copyright={PRAGMA ADE \& \CONTEXT\ Development Team}]
+ 9     %C
+10     %C This module is part of the \CONTEXT\ macro||package and is
+11     %C therefore copyrighted by \PRAGMA. See mreadme.pdf for
+12     %C details.
+13     
+14     % At some point I will reconsider the \starttext .. \stoptext
+15     % wraping as we can assume proper styling. It's a left-over from
+16     % mkii that we need to get rid of.
+17     
+18     % now moved to cont-run.lua
+
+Please type another input file name:     git config --global user.email you@example.com
+
+tex error       > tex error on line 8 in file /usr/local/texlive/2018/texmf-dist/tex/context/base/mkiv/cont-yes.mkiv: ! I can't find file `git'.
+
+l.8 }
+   
+\clf_processjob ...uafunction \16>>clf_processjob 
+                                                  
+l.97 \getvalue{clf_processjob}
+                             % from cont-run.lua
+
+ 1     %D \module
+ 2     %D   [       file=cont-yes,
+ 3     %D        version=2012.06.01,
+ 4     %D          title=\CONTEXT\ Miscellaneous Macros,
+ 5     %D       subtitle=Startup Stub,
+ 6     %D         author=Hans Hagen,
+ 7     %D           date=\currentdate,
+ 8 >>  %D      copyright={PRAGMA ADE \& \CONTEXT\ Development Team}]
+ 9     %C
+10     %C This module is part of the \CONTEXT\ macro||package and is
+11     %C therefore copyrighted by \PRAGMA. See mreadme.pdf for
+12     %C details.
+13     
+14     % At some point I will reconsider the \starttext .. \stoptext
+15     % wraping as we can assume proper styling. It's a left-over from
+16     % mkii that we need to get rid of.
+17     
+18     % now moved to cont-run.lua
+
+Please type another input file name: 
+
+tex error       > tex error on line 8 in file /usr/local/texlive/2018/texmf-dist/tex/context/base/mkiv/cont-yes.mkiv: ! I can't find file `git'.
+
+l.8 }
+   
+\clf_processjob ...uafunction \16>>clf_processjob 
+                                                  
+l.97 \getvalue{clf_processjob}
+                             % from cont-run.lua
+
+ 1     %D \module
+ 2     %D   [       file=cont-yes,
+ 3     %D        version=2012.06.01,
+ 4     %D          title=\CONTEXT\ Miscellaneous Macros,
+ 5     %D       subtitle=Startup Stub,
+ 6     %D         author=Hans Hagen,
+ 7     %D           date=\currentdate,
+ 8 >>  %D      copyright={PRAGMA ADE \& \CONTEXT\ Development Team}]
+ 9     %C
+10     %C This module is part of the \CONTEXT\ macro||package and is
+11     %C therefore copyrighted by \PRAGMA. See mreadme.pdf for
+12     %C details.
+13     
+14     % At some point I will reconsider the \starttext .. \stoptext
+15     % wraping as we can assume proper styling. It's a left-over from
+16     % mkii that we need to get rid of.
+17     
+18     % now moved to cont-run.lua
+
+Please type another input file name: After doing this, you may fix the identity used for this commit with:
+
+tex error       > tex error on line 8 in file /usr/local/texlive/2018/texmf-dist/tex/context/base/mkiv/cont-yes.mkiv: ! I can't find file `After'.
+
+l.8 }
+   
+\clf_processjob ...uafunction \16>>clf_processjob 
+                                                  
+l.97 \getvalue{clf_processjob}
+                             % from cont-run.lua
+
+ 1     %D \module
+ 2     %D   [       file=cont-yes,
+ 3     %D        version=2012.06.01,
+ 4     %D          title=\CONTEXT\ Miscellaneous Macros,
+ 5     %D       subtitle=Startup Stub,
+ 6     %D         author=Hans Hagen,
+ 7     %D           date=\currentdate,
+ 8 >>  %D      copyright={PRAGMA ADE \& \CONTEXT\ Development Team}]
+ 9     %C
+10     %C This module is part of the \CONTEXT\ macro||package and is
+11     %C therefore copyrighted by \PRAGMA. See mreadme.pdf for
+12     %C details.
+13     
+14     % At some point I will reconsider the \starttext .. \stoptext
+15     % wraping as we can assume proper styling. It's a left-over from
+16     % mkii that we need to get rid of.
+17     
+18     % now moved to cont-run.lua
+
+Please type another input file name: 
+
+tex error       > tex error on line 8 in file /usr/local/texlive/2018/texmf-dist/tex/context/base/mkiv/cont-yes.mkiv: ! I can't find file `After'.
+
+l.8 }
+   
+\clf_processjob ...uafunction \16>>clf_processjob 
+                                                  
+l.97 \getvalue{clf_processjob}
+                             % from cont-run.lua
+
+ 1     %D \module
+ 2     %D   [       file=cont-yes,
+ 3     %D        version=2012.06.01,
+ 4     %D          title=\CONTEXT\ Miscellaneous Macros,
+ 5     %D       subtitle=Startup Stub,
+ 6     %D         author=Hans Hagen,
+ 7     %D           date=\currentdate,
+ 8 >>  %D      copyright={PRAGMA ADE \& \CONTEXT\ Development Team}]
+ 9     %C
+10     %C This module is part of the \CONTEXT\ macro||package and is
+11     %C therefore copyrighted by \PRAGMA. See mreadme.pdf for
+12     %C details.
+13     
+14     % At some point I will reconsider the \starttext .. \stoptext
+15     % wraping as we can assume proper styling. It's a left-over from
+16     % mkii that we need to get rid of.
+17     
+18     % now moved to cont-run.lua
+
+Please type another input file name:     git commit --amend --reset-author
+
+tex error       > tex error on line 8 in file /usr/local/texlive/2018/texmf-dist/tex/context/base/mkiv/cont-yes.mkiv: ! I can't find file `git'.
+
+l.8 }
+   
+\clf_processjob ...uafunction \16>>clf_processjob 
+                                                  
+l.97 \getvalue{clf_processjob}
+                             % from cont-run.lua
+
+ 1     %D \module
+ 2     %D   [       file=cont-yes,
+ 3     %D        version=2012.06.01,
+ 4     %D          title=\CONTEXT\ Miscellaneous Macros,
+ 5     %D       subtitle=Startup Stub,
+ 6     %D         author=Hans Hagen,
+ 7     %D           date=\currentdate,
+ 8 >>  %D      copyright={PRAGMA ADE \& \CONTEXT\ Development Team}]
+ 9     %C
+10     %C This module is part of the \CONTEXT\ macro||package and is
+11     %C therefore copyrighted by \PRAGMA. See mreadme.pdf for
+12     %C details.
+13     
+14     % At some point I will reconsider the \starttext .. \stoptext
+15     % wraping as we can assume proper styling. It's a left-over from
+16     % mkii that we need to get rid of.
+17     
+18     % now moved to cont-run.lua
+
+Please type another input file name: 
+
+tex error       > tex error on line 8 in file /usr/local/texlive/2018/texmf-dist/tex/context/base/mkiv/cont-yes.mkiv: ! I can't find file `git'.
+
+l.8 }
+   
+\clf_processjob ...uafunction \16>>clf_processjob 
+                                                  
+l.97 \getvalue{clf_processjob}
+                             % from cont-run.lua
+
+ 1     %D \module
+ 2     %D   [       file=cont-yes,
+ 3     %D        version=2012.06.01,
+ 4     %D          title=\CONTEXT\ Miscellaneous Macros,
+ 5     %D       subtitle=Startup Stub,
+ 6     %D         author=Hans Hagen,
+ 7     %D           date=\currentdate,
+ 8 >>  %D      copyright={PRAGMA ADE \& \CONTEXT\ Development Team}]
+ 9     %C
+10     %C This module is part of the \CONTEXT\ macro||package and is
+11     %C therefore copyrighted by \PRAGMA. See mreadme.pdf for
+12     %C details.
+13     
+14     % At some point I will reconsider the \starttext .. \stoptext
+15     % wraping as we can assume proper styling. It's a left-over from
+16     % mkii that we need to get rid of.
+17     
+18     % now moved to cont-run.lua
+
+Please type another input file name:  1 file changed, 3 insertions(+), 1 deletion(-)
+open source     > level 2, order 3, name '/usr/local/texlive/2018/texmf-dist/doc/latex/disser/templates/bachelor/1.tex'
+
+tex error       > tex error on line 1 in file /usr/local/texlive/2018/texmf-dist/doc/latex/disser/templates/bachelor/1.tex: ! String contains an invalid utf-8 sequence
+
+l.1 \chapter{
+           Наазвзвавананиниеие е г глалававывы}}
+
+ 1 >>  \chapter{Название главы}
+ 2     \section{Название секции}
+ 3     
+ 4     Внутритекстовая формула $\frac{1}{\epsilon^*}=\frac{1}{\epsilon_\infty}-\frac{1}{\epsilon_0}$.
+ 5     Внутритекстовая формула в стиле выделенной $\dfrac{1}{\epsilon_\infty}$.
+ 6     Ссылки на литературу~\cite{Yoffe_1993_AP_42_173,Efros_1982_FTP_16_7_1209,%
+ 7     Anselm_1978,Segall_1968,Agranovich_1983,InP,Mishchenko_1996,Skvortsov_2008,%
+ 8     Perelman_2003_math:0307245,Nielsen_2010_1006.2735,patent1,patent2}.
+ 9     Ссылка на формулу~\eqref{e:Coulomb}
+10     \begin{equation}\label{e:Coulomb}
+11       \frac{1}{|\vec r_1 - \vec r_2|} =
+
+
+? Enumerating objects: 5, done.
+system          > starting editor: scite "-open:/usr/local/texlive/2018/texmf-dist/doc/latex/disser/templates/bachelor/1.tex" -goto:1
+
+system          > start used files
+
+system          > text: lines
+
+system          > stop used files
+
+
+system          > start used files
+
+system          >    1: filename=char-prv.lua filetype=tex format=tex foundname=/usr/local/texlive/2018/texmf-dist/tex/context/base/mkiv/char-prv.lua fullname=/usr/local/texlive/2018/texmf-dist/tex/context/base/mkiv/char-prv.lua usedmethod=database
+system          >    2: filename=cont-yes.mkiv filetype=tex foundname=/usr/local/texlive/2018/texmf-dist/tex/context/base/mkiv/cont-yes.mkiv fullname=/usr/local/texlive/2018/texmf-dist/tex/context/base/mkiv/cont-yes.mkiv usedmethod=database
+system          >    3: filename=publ-imp-default.lua filetype=scripts foundname=/usr/local/texlive/2018/texmf-dist/tex/context/base/mkiv/publ-imp-default.lua fullname=/usr/local/texlive/2018/texmf-dist/tex/context/base/mkiv/publ-imp-default.lua usedmethod=database
+system          >    4: filename=cont-new.mkiv filetype=tex foundname=/usr/local/texlive/2018/texmf-dist/tex/context/base/mkiv/cont-new.mkiv fullname=/usr/local/texlive/2018/texmf-dist/tex/context/base/mkiv/cont-new.mkiv usedmethod=database
+system          >    5: filename=lang-exc.lua filetype=scripts foundname=/usr/local/texlive/2018/texmf-dist/tex/context/base/mkiv/lang-exc.lua fullname=/usr/local/texlive/2018/texmf-dist/tex/context/base/mkiv/lang-exc.lua usedmethod=database
+system          >    6: filename=lang-us.lua filetype=scripts foundname=/usr/local/texlive/2018/texmf-dist/tex/context/patterns/mkiv/lang-us.lua fullname=/usr/local/texlive/2018/texmf-dist/tex/context/patterns/mkiv/lang-us.lua usedmethod=database
+system          >    7: filename=1 filetype=tex foundname=/usr/local/texlive/2018/texmf-dist/doc/latex/disser/templates/bachelor/1.tex fullname=/usr/local/texlive/2018/texmf-dist/doc/latex/disser/templates/bachelor/1.tex usedmethod=otherwise
+
+system          > stop used files
+
+
+system          > start commandline options
+
+system          > .="true"
+system          > currentrun="1"
+system          > fulljobname="./lines"
+system          > input="./lines"
+system          > kindofrun="1"
+system          > maxnofruns="9"
+system          > no-parse-first-line="true"
+
+system          > stop commandline options
+
+
+system          > start commandline files
+
+system          >    1: ./lines
+
+system          > stop commandline files
+
+
+modules         > start used modules
+
+
+modules         > stop used modules
+
+
+mkiv lua stats  > used config file: selfautoparent:/texmfcnf.lua;selfautoparent:/texmf-dist/web2c/texmfcnf.lua
+mkiv lua stats  > used cache path: readable+writable: '/var/folders/53/1tymkkfd6cqgrtdrvvhdtqx80000gn/T/luatex-cache/context/a86c089b384a3076dc514ba966a1fac9'
+mkiv lua stats  > resource resolver: loadtime 0.165 seconds, 1 scans with scantime 0.008 seconds, 0 shared scans, 7 found files, scanned paths: /Users/monolith/Library/texmf
+mkiv lua stats  > stored bytecode data: 410 modules (0.577 sec), 93 tables (0.020 sec), 503 chunks (0.597 sec)
+mkiv lua stats  > traced context: maxstack: 1286, freed: 0, unreachable: 1286
+mkiv lua stats  > cleaned up reserved nodes: 55 nodes, 9 lists of 453
+mkiv lua stats  > node memory usage: 1 dir, 2 kern, 2 attribute, 50 glue_spec, 1 attribute_list, 2 temp, 2 user_defined
+mkiv lua stats  > used backend: pdf (backend for directly generating pdf output)
+mkiv lua stats  > jobdata time: 0.000 seconds saving, 0.000 seconds loading
+mkiv lua stats  > callbacks: internal: 261, file: 122, direct: 0, late: 0, function 0, total: 383
+mkiv lua stats  > loaded patterns: en::2, load time: 0.000
+mkiv lua stats  > result saved in file: lines.pdf, compresslevel 3, objectcompresslevel 3
+mkiv lua stats  > font engine: otf 3.103, afm 1.513, tfm 1.000
+mkiv lua stats  > used platform: osx-64, type: unix, binary subtree: bin
+mkiv lua stats  > used engine: luatex version 1.07 with functionality level 6686, banner: this is luatex, version 1.07.0 (tex live 2018)
+mkiv lua stats  > control sequences: 44639 of 65536 + 100000
+mkiv lua stats  > lua properties: engine: lua 5.2, used memory: 127 MB (ctx: 128 MB), hash type: lua, hash chars: min(64,40), symbol mask: utf (П„ОµП‡)
+mkiv lua stats  > runtime: 0.817 seconds
+
