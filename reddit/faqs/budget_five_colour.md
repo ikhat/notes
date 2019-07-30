@@ -1,4 +1,4 @@
-Budget five colour mana bases
+# Budget five colour mana bases
 
 ## /r/EDH posts
 

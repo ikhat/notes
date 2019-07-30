@@ -1,4 +1,4 @@
-# Tuxedo 
+# Tuxedo
 
 ## Ingredients
 

@@ -1,4 +1,4 @@
-Proxies in EDH
+# Proxies in EDH
 
 ## Discussions about whether proxies are okay with people/groups
 

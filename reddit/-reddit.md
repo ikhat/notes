@@ -1,4 +1,4 @@
-# Reddit
+# reddit
 
 I use reddit a lot. 
 
