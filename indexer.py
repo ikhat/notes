@@ -137,12 +137,12 @@ def main():
                         help="Desired name of markdown output file.")
 
     args = parser.parse_args()
+    print('Creating index!')
     cwd = os.getcwd()
     output_lines = create_index(cwd)
 
     md_out_fn = os.path.join(cwd, args.filename)
     replace_index(md_out_fn, output_lines)
-    print('Index created!')
 
 
 if __name__ == "__main__":
