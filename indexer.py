@@ -31,12 +31,18 @@ LIST_PREFIX = "-"
 INDENT_SPACES = 2
 
 def excluded_file(file):
+    """Determine whether to exclude file from the index.
+    Includes checking if file is a markdown file.
+    """
     md_exts = ['.markdown', '.mdown', '.mkdn', '.mkd', '.md']
-    return file[0] == '.' or os.path.splitext(file)[-1] not in md_exts or file == "README.md" or file == "SUMMARY.md"
+    if file[0] == '.': return True
+    if os.path.splitext(file)[-1] not in md_exts: return True
+    if file == "README.md" or file == "SUMMARY.md": return True
+    return False
 
 
 def get_page_name(file):
-    """get text after the first header in the file, to use as article name
+    """Get text after the first header in file, to use as article name in index.
     """
     with open(file, 'r') as data:
         title_line = data.readline()
@@ -45,7 +51,7 @@ def get_page_name(file):
 
 
 def create_index(cwd):
-    """create markdown index of all markdown files in cwd and sub folders
+    """Create markdown index of all included files files in cwd and subfolders.
     """
     excluded_dirs = []
     try:
@@ -62,7 +68,7 @@ def create_index(cwd):
     output_lines.append('<!-- index start -->\n\n')
     for root, dirs, files in os.walk(cwd):
         files = sorted([f for f in files if not excluded_file(f)])
-        dirs[:] = sorted([d for d in dirs if not (d[0] == '.' or os.path.relpath(os.path.join(root, d), cwd) in excluded_dirs )])
+        dirs[:] = sorted([d for d in dirs if not (d[0] == '.' or os.path.relpath(os.path.join(root, d), cwd) in excluded_dirs)])
         if len(files) > 0:
             level = root.count(os.sep) - base_level
             if root != cwd:
@@ -87,11 +93,11 @@ def create_index(cwd):
 
 
 def replace_index(filename, new_index):
-    """Finds the old index in filename and replaces it with the lines in new_index.
-    If there is no existing index in filename, places new index at end of filename.
-    If filename doesn't exist, creates it and adds new index to it with a 
+    """Find preexisting index in filename and replace it with the lines in new_index.
+    If there is no preexisting index in filename, place new index at end of filename.
+    If filename does not exist, create it and add new index to it with a 
     'Table of Contents' header.
-    Only replaces the first index block in file.
+    Only replace the first index block in file.
     """
     lines_before_index = []
     lines_after_index = []
@@ -129,9 +135,6 @@ def main():
                         nargs='?',
                         default='SUMMARY.md',
                         help="Desired name of markdown output file.")
-    parser.add_argument('-v', '--verbose',
-                        action='store_true',
-                        help='More verbose output.')
 
     args = parser.parse_args()
     cwd = os.getcwd()
@@ -139,6 +142,7 @@ def main():
 
     md_out_fn = os.path.join(cwd, args.filename)
     replace_index(md_out_fn, output_lines)
+    print('Index created!')
 
 
 if __name__ == "__main__":

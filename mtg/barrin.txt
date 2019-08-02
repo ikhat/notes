@@ -1,0 +1,39 @@
+My most successful list have always been the combo-heavy ones that rely on either artifact recursion or simple infinite mana loops. These are pretty overdone and can be done with really any blue commander, but Barrin is very safe and lets you play a longer game and gives survivability versus some faster starts from your opponents. However these lists never were my favorite because I play EDH for freedom rather than success or winning. It's kind of like the artists dilemma - they would rather have freedom than the ability to make a lot of money. Doesn't mean that they don't want money, just that they would rather have their freedom.
+
+Induced Amnesia is far and away the best card I have ever played with in Barrin that has been printed in the last 5 years. It's absolutely amazing. It's good when you are behind. It's good when you are ahead. It helps you win. It decimates people's hands in blue. It's a permanent, which means it has play with Barrin. It's cheap, can represent a ton of card advantage, and breaks the fundamental Oblivion Ring rule that WotC has been trying to get rid of.
+
+The Mirari Conjecture and Precognition Field are cards that made me want to move to a spell-heavy list. They're both excellent in spell control decks. The Mirari Conjecture is a card that is used to secure the lead or extend your lead greatly, and it's like a planeswalker.
+
+Think about that for a second. You land the Conjecture, and then recollect a counterspell. It protects itself.
+
+Even better is if you recollect Mystical Teachings. Now you have both a counterspell and any other card. If you have an on-board means to draw a card like Trading Post or Ichor Wellspring or Top, you can make people scared of your tutor.
+
+Then what if you have a Leyline of Anticipation or a Vedalken Orrery? If no one forces you to tutor for a counterspell, you can tutor for Time Warp on the end step before your turn, draw the Time Warp, cast it, then uptick the Conjecture to recollect your Time Warp, take the extra turn, play and fork Timeb Warp, and now you are REALLY ahead.
+
+Even if that is not your best use case, you still buy back a tone of value for a list like mine. Say the best 2 things you can get are Pull From Tomorrow and All is Dust. Or Intuition and Treasure Cruise. Or Cryptic Command and a discarded Time Spiral. If you have the money, even Hurkyl's Recall and Timetwister is backbreaking. I really enjoyed this card to make sure that I keep the game in my favor in the late game, as often times a lot of decks are designed to go long and land huge threats every turn, and sometimes you need a burst of spells to make sure that you are in control of the threats your opponents present to you.
+
+Precognition Field is just a fixed Future Sight. I always liked Future Sight but I always cut it. It costs 5, 3 of which is blue, and a symmetrical effect is fine if you can make it unfair, but in this case as a late game control deck, revealing every card you draw to the table can hurt you really badly. Precognition Field fixes that and costs 1 less, and only working with instants and sorceries if fine if instants and sorceries are 40% of your deck. It plays really nice with cards like Mystical Teachings, Top, Long-Term Plans, Search for Azcanta, and Brainstorm.
+
+I have been really hesitant with Thopter Spy Network, but I often found that I like the card, I just don't always cast it when I have it. It's a set-up card. It makes a blocker in a permanent based list, the blocker is a permanent you can sacrifice, and the blocker can attack and draw you a card every turn. That's honestly not bad, but it's not always good. Usually I look to play it when I need a resource engine to pull ahead or if I can cast it before turn 8 or so, other than that I discard it. It's good, and honestly deserves a slot, but I understand that it's not always good.
+
+Thaumatic Compass is a card I'm still trying to figure out, but ultimately I think I will cut. I've always like Kite, and I do like me a Maze of Ith, but it's not ACTUALLY a Maze of Ith. I don't mind the Kite side of the card, but the fact that it's not actually Maze of Ith is a big reason why I might cut it.
+
+I noticed that your list doesn't main Trading Post.
+
+You should play Trading Post.
+
+Trust me.
+
+In a permanent based deck, Trading Post becomes your #2 man, your right-hand to Barrin, the backup plan, the muscles of the operation. You don't always want to sacrifice your fodder to bounce a spell. Maybe you want to draw a card.  Or get back an artifact. Or make a blocker. Or GAIN LIFE AS A BLUE DECK. Trading Post is a big deal in mono red decks because everyone freaks out when a red deck gets card advantage, but whenever I sacrifice a tapped Mana Vault to draw a card as a blue deck no one pays attention. Trading Post gives you options. It actually gives you 4 options. I found that I usually spend my first tutor for an artifact spell looking for Trading Post. It just gives you a lot of room and can make a lot of things happen for you in a game.
+
+I guess over time, my metagame has become very competitive, so I make the overall CMC of the deck leaner to keep up. Splashy effects like Spelltwine and Thievery and even Omniscience are too slow and late, and when it comes to Barrin I would rather hold up mana and then slowly take over the game rather than land one big spell. I also have less Eldrazi due to the fact that I always have the worst luck and keep drawing them in my opening hands lmao.
+
+Honestly, permanent Barrin is probably the right list. I just am trying out Dominaria cards. I really like the new cards, but I haven't made too much development as I think spell-based blue decks have been more or less "solved" by other mono blue decks. At least I kept my list pretty refreshing compared to JaceVP or Talrand.
+
+For the most part, if you want to make a hybrid of both, you can't dedicate slots to cards that only do one side of the equation. You'll notice that I don't have cards like Inspiring Statuary or Treasure Map or Phyrexian Metamorph or even Solemn Simulacrum in my newer list because these cards only play very well with a permanent heavy list. You're gonna have to make concessions and cut cards that you would normally really like to make room for the other half of the deck.
+
+As far as advice, I think the best way to play Barrin is to just be fearless and never be afraid of things. If something is a threat and you have to deal with it, sacrifice lands, sacrifice Barrin even, to get the job done. Once you make a fearless and uncompromising play, you can swing Barrin's ability over people's heads and make them think twice about targetting you. Sometimes when multiple people target you, the best thing to do is to ruin one specific player and leave them in the worst position for when you do die just to send a message, and then choose that player at seemingly random. After a few games, a lot of people will learn to just leave you alone unless they have good reason to target you. It's why I keep things low to the ground and appear as if I don't have anything strong on board. Just building a collection of baubles and trinkets and not committing anything threatening makes people not worry about you.
+
+As far as control game goes, that's a bit harder. You have to be really good at analyzing every player and understand their threats and decks and to prioritize the right thing. People say control in EDH is hard but I find it rather simple, but that may be because I've been playing Control for over 13 years now. I guess to me control as an archetype is natural? I've always been a strong control player in every format.
+
+If you have any other thoughts, feel free to talk with me.
