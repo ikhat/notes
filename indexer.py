@@ -51,7 +51,7 @@ def get_page_name(file):
 
 
 def create_index(cwd):
-    """Create markdown index of all included files files in cwd and subfolders.
+    """Create markdown index of all included files in cwd and subfolders.
     """
     excluded_dirs = []
     try:
@@ -125,7 +125,7 @@ def replace_index(filename, new_index):
 
 
 def main():
-    """generate index optional cmd line arguments"""
+    """Generate index, optional cmd line arguments."""
     parser = argparse.ArgumentParser(
         description=('Generate a markdown index tree of markdown files in '
                      'current working directory and its sub folders. '

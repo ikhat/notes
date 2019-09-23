@@ -416,23 +416,51 @@
 	"buffers":
 	[
 		{
-			"contents": "2019-June\n\nThe Gramfel Cycle: https://imgur.com/gallery/Dlfgf\n\t- Garfield x Lovecraft comics\n\t- done by John Cullen: https://nellucnhoj.com\n\nJune security update for rooted Essential PH-1: https://redd.it/bwhy9j\n\nMinimalism documentary trailer: https://www.youtube.com/watch?v=0Co1Iptd4p4\n\t- it's on Netflix, added to my list \n\nBinging with Babish health/fitness info: https://www.bingingwithbabish.com/health-fitness\n\t- primarily interested in this for recipies, but hey, excercise.\n\nCoffee \n\t- most efficient cold brew recipe\n\t\t- 1:12.5 ratio, by mass, of coffee to water. This makes ready-to-drink, no dilution required. \n\t\t- https://uelzing.com/blog/2016/11/22/the-most-efficient-cold-brew-ratio\n\t- french press - Babish\n\t\t- grind to a consistency like kosher salt\n\t\t- 1:12 ratio, by weight\n\t\t- brew for 4 minutes\n\t\t- https://basicswithbabish.co/basicsepisodes/coffee\n\t- Costco coffee coldbrew first attempt\n\t\t- 4oz ground coffee : 24oz water\n\t\t- 18h brew time on the counter\n\t- Costco coffee coldbrew second attempt\n\t\t- 120g ground coffee : ~730g water\n\t\t- outcome: delicious!\n\npulled pork \n\t- Dr. Pepper recipe: http://myretrokitchen.blogspot.com/2011/10/dr-pepper-pulled-pork-in-slow-cooker.html\n\t- stout barbecue sauce: https://www.seriouseats.com/recipes/2011/01/grilling-stout-barbecue-sauce-recipe.html?ref=search\n\nNice clean desk idea\n\t- Linus Tech Tips video: https://www.youtube.com/watch?v=G2VxwFEA8xM\n\t- Thunderbolt 3 laptop necessary. Current Macbook only has Thunderbolt 2. \n\nRadiohead\n\t- 18 hours worth of recordings of Radiohead's OK Computer sessions got leaked, so Radiohead released them.\n\t- PWYC from Radiohead, but also available on all major torrent sites.\n\nJoin app\n\t- Installed the Join app on my phone and the Chrome Extension.\n\t- It's like a fancier version of Pushbullet.\n\t- 1 month trial started on 25 June\n\nMac and MacOS stuff\n\t- Productivity software: https://www.boxysuite.com/blog/mac-productivity\n\t\t- So far I've installed Vanilla, which lets you hide icons in the menu bar. \n\t\t- Soulver might be worth looking at, though it costs a bunch. \n\t\t- Karabiner elements\n\t\t\t- Guide to making a hyper key: https://brettterpstra.com/2017/06/15/a-hyper-key-with-karabiner-elements-full-instructions/\n\t\t- Nikita Voloboev\n\t\t\t- Guy who uses Karabiner in cool ways, and generally has his MacOS situation organized well.\n\t\t\t- his dotfiles: https://github.com/nikitavoloboev/dotfiles/blob/master/README.md#karabiner\n\t\t\t- Karabiner God Mode: https://medium.com/@nikitavoloboev/karabiner-god-mode-7407a5ddc8f6\n\t\t- Guide to a good iTerm experience, including switching to zsh from bash\n\t\t\t- https://medium.com/@caulfieldOwen/youre-missing-out-on-a-better-mac-terminal-experience-d73647abf6d7\n\t\t- Keyboard Maestro stuff\n\t\t\t- https://mattgemmell.com/keyboard-maestro-macros/\n\t\t- Organizing my dotfiles\n\t\t\t- article: https://www.anishathalye.com/2014/08/03/managing-your-dotfiles/\n\t\t\t- tool: https://github.com/anishathalye/dotbot\n\nJune 25 pesto tomato chicken pasta recipe\n\t- Cut a bunch of cherry tomatoes in half\n\t\t- mince two cloves of garlic\n\t\t- toss them together with olive oil, salt, and pepper\n\t\t- spread them on an oiled baking sheet, and put them under the broiler until the tomatos are bursting\n\t- Cook pasta, add pesto, cooked tomatoes, raw tomatos if you want, and cooked chicken. \n\t- Emily loved it. \n\nKnowledge repository on Git: https://github.com/RichardLitt/meta-knowledge\n\nPotential way to implement markdown link snippets: https://leancrew.com/all-this/2014/07/quicker-markdown-linking-with-textexpander/\nAnother way, with Keyboard Maestro: https://brooksreview.net/2011/03/mad-links-km/\n\nAwesome lists: https://github.com/sindresorhus/awesome\n\nGame Boy Pocket shells: https://www.retromodding.com/collections/gameboy-pocket\n\t",
-			"file": "general/201906.txt",
-			"file_size": 3681,
-			"file_write_time": 132061717532912651,
+			"contents": "%%--- scratch pad ---%%\n\nDCI: 6208491579\nUofT emp #: 1106524\nSIN #: 547 732 917\n4724090032511485\n\nNSLSC:\n\t- username: ikhatchatourian\n\t- email: ivan@math.toronto.edu\n\t- student loan number: 5721756\n\t- username/password saved in Chrome\n\nOSAP:\n\t- OAN: 103748104\n\t- email: ivan@math.toronto.edu\n\t- username/password saved in Chrome\n\nGreenshield:\n\t- 1-888-711-1119\n\t- CUPE: UOT1106524-00\n\t- GSU: UTG994834916-00\n\t- 49.70, restart Apr 2021\n\t\nproducts\n\t- mixmax - email app\n\nmusic\n\t- radio: monstercat, NCR, psychoradio\n\t- francis bebey - guinee \n\t- spirit fire child - astral love\n\t- tommy guerrero - loose grooves...\n    - pretty lights \n\nDad's place wifi password: 19DF465153FE\n\nSeiko 6139-6010 chronograph 992885\nRolex 481391 bubble back\n\"Reading\" - Almeida Junior\n\n2018 rent: 634 + 645 + 645 + 645 + 645 = 3214\n2018 CRA confirmation number: 918HYT2G8F7\n\nHareruya:\n\n4 Mission Briefing\n4 Lavinia, Azorius Renegade\n4 Light up the Stage\n4 Pteramander\n2 Reanimate (TMP)\n4 Narset, Parter of Veils\n4 Goblin Cratermaker\n\nMiscellaneous/flex hours (extra office hours or helping grade final): 2h\n\n\n\n\n\nhttps://filefox.cc/wj3oods0286k\nhttps://filefox.cc/am4knophu3zs\nhttps://filefox.cc/qgmddc2vpxfp\nhttps://filefox.cc/lh8lth9bkger\nhttps://filefox.cc/nba19bjx6up3\nhttps://filefox.cc/psikwngxrls1\n\nhttps://openload.co/f/7CYJDZvERx4/birdylovesit-ticket-show.mp4",
+			"file": "scratch.txt",
+			"file_size": 1272,
+			"file_write_time": 132040969797598834,
 			"settings":
 			{
-				"buffer_size": 3762,
-				"line_ending": "Unix",
-				"name": "2019-06 June"
+				"buffer_size": 1345,
+				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "scratch.txt",
+			"file": "/Users/monolith/Downloads/Inventory_cromonolith_2019.August.16.csv",
 			"settings":
 			{
-				"buffer_size": 1210,
-				"line_ending": "Windows"
+				"buffer_size": 1139,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "mtg/buylist.txt",
+			"settings":
+			{
+				"buffer_size": 447,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "Cards I should get"
+			}
+		},
+		{
+			"file": "general/201907.txt",
+			"settings":
+			{
+				"buffer_size": 1178,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "general/201908.txt",
+			"settings":
+			{
+				"buffer_size": 224,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "2019-August"
 			}
 		}
 	],
@@ -820,11 +848,43 @@
 	[
 		"/Users/monolith/Dropbox/notes",
 		"/Users/monolith/Dropbox/notes/general",
-		"/Users/monolith/Dropbox/notes/lists",
-		"/Users/monolith/Dropbox/notes/reddit"
+		"/Users/monolith/Dropbox/notes/reddit",
+		"/Users/monolith/Dropbox/notes/reddit/mod",
+		"/Users/monolith/Dropbox/notes/reddit/mod/c19",
+		"/Users/monolith/Dropbox/notes/reddit/mod/eld"
 	],
 	"file_history":
 	[
+		"/Users/monolith/Dropbox/notes/reddit/mod/c19/c19-commanders.md",
+		"/Users/monolith/Dropbox/notes/reddit/mod/c19/krrik.md",
+		"/Users/monolith/Dropbox/notes/reddit/mod/c19/greven.md",
+		"/Users/monolith/Dropbox/notes/reddit/mod/c19/chainer.md",
+		"/Users/monolith/Dropbox/notes/reddit/mod/c19/anje.md",
+		"/Users/monolith/Dropbox/notes/reddit/mod/c19/grismold.md",
+		"/Users/monolith/Dropbox/notes/reddit/mod/c19/volrath.md",
+		"/Users/monolith/Dropbox/notes/reddit/mod/c19/rayami.md",
+		"/Users/monolith/Dropbox/notes/reddit/mod/c19/kadena.md",
+		"/Users/monolith/Dropbox/notes/reddit/mod/c19/tahngarth.md",
+		"/Users/monolith/Dropbox/notes/reddit/mod/c19/marisi.md",
+		"/Users/monolith/Dropbox/notes/reddit/mod/c19/atla.md",
+		"/Users/monolith/Dropbox/notes/reddit/mod/c19/ghired.md",
+		"/Users/monolith/Dropbox/notes/reddit/mod/c19/gerrard.md",
+		"/Users/monolith/Dropbox/notes/reddit/mod/c19/pramikon.md",
+		"/Users/monolith/Dropbox/notes/reddit/mod/c19/elsha.md",
+		"/Users/monolith/Dropbox/notes/reddit/mod/c19/sevinne.md",
+		"/Users/monolith/Dropbox/notes/general/201906.txt",
+		"/Users/monolith/Dropbox/notes/reddit/faqs/partner.md",
+		"/Users/monolith/Dropbox/notes/mtg/jaeeve-barrin.txt",
+		"/Users/monolith/Dropbox/notes/cocktails/tuxedo.md",
+		"/Users/monolith/Dropbox/notes/mtg/barrin.txt",
+		"/Users/monolith/Dropbox/notes/reddit/mod/eld/chulane.md",
+		"/Users/monolith/Dropbox/notes/README.md",
+		"/Users/monolith/.swp",
+		"/Users/monolith/Dropbox/notes/.gitignore",
+		"/Users/monolith/Dropbox/IFTTT/FBLinks.txt",
+		"/Users/monolith/Library/Application Support/Keyboard Maestro/Keyboard Maestro Macros.plist",
+		"/Users/monolith/Library/Application Support/Keyboard Maestro/scripts/calendar/calendar.html",
+		"/Users/monolith/Downloads/Heads Up Info Display Macro/HOW TO USE.txt",
 		"/Users/monolith/Dropbox/notes/notes.sublime-project",
 		"/Users/monolith/.config/karabiner.edn",
 		"/Users/monolith/set-macos-defaults.sh",
@@ -922,37 +982,7 @@
 		"/Users/monolith/Dropbox/notes/cocktails/trinidad_sour.txt",
 		"/Users/monolith/Dropbox/notes/cocktails/meathook.txt",
 		"/Users/monolith/Dropbox/notes/bourbon_renewal.txt",
-		"/Users/monolith/Dropbox/notes/todo.txt",
-		"/Users/monolith/Dropbox/notes/router.txt",
-		"/Users/monolith/Dropbox/teaching/mat137/1718/1slides/01/lecture01.tex",
-		"/Users/monolith/Dropbox/notes/Vim things",
-		"/Users/monolith/Dropbox/notes/November 6, 9:45am, Dr dekoven, main wing 1st floo",
-		"/Users/monolith/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
-		"/Users/monolith/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
-		"/Users/monolith/Dropbox/programming/sandbox/templates/index.html",
-		"/Users/monolith/Dropbox/programming/sandbox/templates/base.html",
-		"/Users/monolith/Dropbox/programming/sandbox/index.html",
-		"/Users/monolith/Dropbox/programming/sandbox/post",
-		"/Users/monolith/Dropbox/programming/sandbox/test2.py",
-		"/Users/monolith/Dropbox/programming/sandbox/sample_post.md",
-		"/Users/monolith/Dropbox/programming/sandbox/sample_template.html",
-		"/Users/monolith/Dropbox/programming/sandbox/sample",
-		"/Users/monolith/temp/webtest/py_site/generator.py",
-		"/Users/monolith/temp/webtest/py_site/index.html",
-		"/Users/monolith/temp/webtest/py_site/content/posts/2017/08/Test.md",
-		"/Users/monolith/Dropbox/programming/project_euler/euler.py",
-		"/Applications/Python 3.3/Update Shell Profile.command",
-		"/Users/monolith/Dropbox/teaching/mat327/mat327.sublime-project",
-		"/Users/monolith/Dropbox/programming/test.py",
-		"/Users/monolith/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-		"/Users/monolith/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
-		"/Applications/Karabiner.app/Contents/Resources/replacementdef.xml",
-		"/Applications/Karabiner.app/Contents/Resources/include/checkbox/launcher_mode.xml",
-		"/Applications/Karabiner.app/Contents/Resources/vkopenurldef.xml",
-		"/Applications/Karabiner.app/Contents/Resources/appdef.xml",
-		"/Applications/Karabiner.app/Contents/Resources/inputsourcedef.xml",
-		"/Applications/Karabiner.app/Contents/Resources/modifierdef.xml",
-		"/Applications/Karabiner.app/Contents/Resources/vkchangeinputsourcedef.xml"
+		"/Users/monolith/Dropbox/notes/todo.txt"
 	],
 	"find":
 	{
@@ -971,6 +1001,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"gerrard",
+			"pramikon",
+			"elsha",
+			"macro",
 			"war-sidebar",
 			"kethis",
 			"golos",
@@ -1094,11 +1128,7 @@
 			"tikzcd",
 			"bundle",
 			"commutes",
-			"disjoint,",
-			"(-n",
-			"heine",
-			"is surjective",
-			"connectedness is "
+			"disjoint,"
 		],
 		"highlight": false,
 		"in_selection": false,
@@ -1175,24 +1205,23 @@
 			[
 				{
 					"buffer": 0,
-					"file": "general/201906.txt",
+					"file": "scratch.txt",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3762,
+						"buffer_size": 1345,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3407,
-								3407
+								235,
+								235
 							]
 						],
 						"settings":
 						{
-							"auto_name": "2019-06 June",
 							"syntax": "Packages/Text/Plain text.tmLanguage",
 							"translate_tabs_to_spaces": false
 						},
@@ -1205,19 +1234,76 @@
 				},
 				{
 					"buffer": 1,
-					"file": "scratch.txt",
+					"file": "/Users/monolith/Downloads/Inventory_cromonolith_2019.August.16.csv",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1210,
+						"buffer_size": 1139,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								30,
-								40
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "mtg/buylist.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 447,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								419,
+								419
+							]
+						],
+						"settings":
+						{
+							"auto_name": "Cards I should get",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "general/201907.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1178,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1178,
+								1178
 							]
 						],
 						"settings":
@@ -1229,7 +1315,36 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "general/201908.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 224,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								176,
+								224
+							]
+						],
+						"settings":
+						{
+							"auto_name": "2019-August",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
@@ -1332,7 +1447,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 125.0,
+	"side_bar_width": 173.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
