@@ -4,6 +4,7 @@
 
 ## Non-specific, including "unique", and "fun" commanders
 
+* 2019-08-28 - 153 posts - [Sell me on a new commander.](https://www.reddit.com/r/EDH/comments/cwm7rj/sell_me_on_a_new_commander/)
 * 2019-01-29 - 361 posts - [Who's your favorite commander?](https://www.reddit.com/r/EDH/comments/al26ra/whos_your_favorite_commander/)
 * 2018-12-19 - 42 posts - [Looking for my next commander and want some help from you awesome people! Sell me on some fun, but really competitive commanders!](https://www.reddit.com/r/EDH/comments/a7rd69/looking_for_my_next_commander_and_want_some_help/)
 * 2018-06-12 - 48 posts - [Sell me on your favorite commander/deck!](https://www.reddit.com/r/EDH/comments/8qixlx/sell_me_on_your_favorite_commanderdeck/)
@@ -69,7 +70,7 @@
 ### Mono-coloured
 
 * Non-specific
- * 2019-02-22 - 201 posts (ongoing) - [Your Favorite Mono-Color Commander?](https://www.reddit.com/r/EDH/comments/atcbsa/your_favorite_monocolor_commander/)
+ * 2019-02-22 - 237 posts - [Your Favorite Mono-Color Commander?](https://www.reddit.com/r/EDH/comments/atcbsa/your_favorite_monocolor_commander/)
  * 2019-01-15 - 228 posts - [Sell me on your mono color commander (but not green)!](https://www.reddit.com/r/EDH/comments/ag8sfg/sell_me_on_your_mono_color_commander_but_not_green/)
  * 2018-10-13 - 62 posts - [Sell me on your Mono color commanders!](https://www.reddit.com/r/EDH/comments/9nwvj4/sell_me_on_your_mono_color_commanders/)
  * 2017-04-16 - 182 posts - [What are your favourite Mono Colour Commanders?](https://www.reddit.com/r/EDH/comments/65qz5f/what_are_your_favourite_mono_colour_commanders/)
@@ -97,6 +98,7 @@
  * 2015-03-11 - 93 posts - [Looking for a mono blue commander that does something other than full on control](https://www.reddit.com/r/EDH/comments/2yo33t/looking_for_a_mono_blue_commander_that_does/)
  * 2015-02-13 - 48 posts - [I need to scratch my mono blue itch...](https://www.reddit.com/r/EDH/comments/2vtlg4/i_need_to_scratch_my_mono_blue_itch/)
 * Mono Black
+ * 2019-08-11 - 45 posts - [Sell me on a mono black or Rakdos Commander!](https://www.reddit.com/r/EDH/comments/cotl1i/sell_me_on_a_mono_black_or_rakdos_commander/)
  * 2019-03-15 - 52 posts - [Sell me your mono-black commander](https://www.reddit.com/r/EDH/comments/b1i5dv/sell_me_your_monoblack_commander/)
  * 2017-10-06 - 62 posts - [Best Mono-Black General for a Control Build](https://www.reddit.com/r/EDH/comments/74njgc/best_monoblack_general_for_a_control_build/)
  * 2017-07-14 - 87 posts - [Sell me on your mono-black commander!](https://www.reddit.com/r/EDH/comments/6n95gd/sell_me_on_your_monoblack_commander/)
@@ -129,6 +131,7 @@
  * 2017-12-25 - 109 posts - [Sell me on your Dimir Commander!](https://www.reddit.com/r/EDH/comments/7m26rc/sell_me_on_your_dimir_commander/)
  * 2017-07-24 - 16 posts - [Sell me on your DIMIR (what's that?) commander!](https://www.reddit.com/r/EDH/comments/6pa582/sell_me_on_your_dimir_whats_that_commander/)
 * BR (Rakdos)
+ * * 2019-08-11 - 45 posts - [Sell me on a mono black or Rakdos Commander!](https://www.reddit.com/r/EDH/comments/cotl1i/sell_me_on_a_mono_black_or_rakdos_commander/)
  * 2017-11-28 - 27 posts - [Sell me on a Rakdos commander](https://www.reddit.com/r/EDH/comments/7g6fm5/sell_me_on_a_rakdos_commander/)
  * 2017-05-08 - 39 posts - [Sell me your Rakdos Commander](https://www.reddit.com/r/EDH/comments/69v76n/sell_me_your_rakdos_commander/)
  * 2015-05-23 - 45 posts - [R/B Commander players, sell me on your general!](https://www.reddit.com/r/EDH/comments/3715vp/rb_commander_players_sell_me_on_your_general/)
@@ -146,6 +149,7 @@
  * 2017-11-06 - 26 posts - [I need more variety. Sell me on your UR/URx Commanders!](https://www.reddit.com/r/EDH/comments/7b8zxi/i_need_more_variety_sell_me_on_your_ururx/)
  * 2016-02-16 - 128 posts - [Favorite UR commander?](https://www.reddit.com/r/EDH/comments/43ulps/favorite_ur_commander/)
 * UB (Simic)
+ * 2019-07-30 - 79 posts - [Sell me on your Simic Commander](https://www.reddit.com/r/EDH/comments/cjsqxx/sell_me_on_your_simic_commander/)
  * 2019-03-07 - 57 posts - [Sell me on your Simic commander](https://www.reddit.com/r/EDH/comments/ayixeq/sell_me_on_your_simic_commander/)
  * 2017-09-29 - 37 posts - [Sell your Simic commander! ](https://www.reddit.com/r/EDH/comments/739ww0/sell_your_simic_commander/)
 * BW (Orzhov)
@@ -223,6 +227,7 @@
  * 2017-04-18 - 30 posts - [Sell me on your Voltron commanders](https://www.reddit.com/r/EDH/comments/65nep7/sell_me_on_your_voltron_commanders/)
  * 2016-02-28 - 50 posts - [Sell me Voltron](https://www.reddit.com/r/EDH/comments/484rwr/sell_me_voltron/)
 * Miscellaneous
+ * <2 CMC:						2019-08-08 - 77 posts - [Sell me on your <2 cmc commander!](https://www.reddit.com/r/EDH/comments/cnex6j/sell_me_on_your_2_cmc_commander/)
  * Lands:						2019-04-10 - 9 posts - [Sell Me on a Cool Lands Commander](https://www.reddit.com/r/EDH/comments/bbs8ax/sell_me_on_a_cool_lands_commander/)
  * Enchantments:				2018-10-11 - 73 posts - [Who is your favorite commander for enchantment decks and why?](https://www.reddit.com/r/EDH/comments/9n5v8x/who_is_your_favorite_commander_for_enchantment/)
  * Infect 						2018-07-14 - 59 posts - [Looking to build an infect deck, sell me on an Infect commander.](https://www.reddit.com/r/EDH/comments/8yx238/looking_to_build_an_infect_deck_sell_me_on_an/)
