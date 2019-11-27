@@ -4,6 +4,7 @@
 
 ## General questions
 
+* 2019-10-27 - ongoing - [What unique rules do each of your play groups have?](https://www.reddit.com/r/EDH/comments/do14tk/what_unique_rules_do_each_of_your_play_groups_have/)
 * 2019-04-28 - 40 posts - [Interesting House Rules?](https://www.reddit.com/r/EDH/comments/bidzzt/interesting_house_rules/)
 * 2019-04-27 - 361 posts - [Worst houserules ever?](https://www.reddit.com/r/EDH/comments/bi1wt5/worst_houserules_ever/)
 * 2019-03-07 - 71 posts - [How does your playgroup decide on house rules?](https://www.reddit.com/r/EDH/comments/ayc6in/how_does_your_playgroup_decide_on_house_rules/)

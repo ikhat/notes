@@ -1,8 +1,8 @@
 # How do I win with my Muldrotha deck?
 
-**Count so far:** 16
+**Count so far:** 17
 
-* 2019-06-06 - 18 posts (ongoing) - [Muldrotha Lands Wincon](https://www.reddit.com/r/EDH/comments/bxhuh8/muldrotha_lands_wincon/)
+* 2019-06-06 - 22 posts - [Muldrotha Lands Wincon](https://www.reddit.com/r/EDH/comments/bxhuh8/muldrotha_lands_wincon/)
 * 2018-10-31 - 99 posts - [Muldrotha win-cons](https://www.reddit.com/r/EDH/comments/9svl90/muldrotha_wincons/)
 * 2018-08-26 - 191 posts - [Muldrotha and her struggle to "win"](https://www.reddit.com/r/EDH/comments/9ae93p/muldrotha_and_her_struggle_to_win/)
 * 2018-06-23 - 109 posts - [Muldrotha is doing my head in...Need some creature options to help the deck hit harder](https://www.reddit.com/r/EDH/comments/8ta396/muldrotha_is_doing_my_head_inneed_some_creature/)
