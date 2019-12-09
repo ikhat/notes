@@ -17,6 +17,8 @@
   - [Singapore Sling](cocktails/singapore_sling.md)
   - [Trinidad Sour](cocktails/trinidad_sour.md)
   - [Tuxedo](cocktails/tuxedo.md)
+- [MTG](mtg/-mtg.md)
+  - [Legacy GP Results](mtg/legacygps.md)
 - [reddit](reddit/-reddit.md)
   - [Frequently asked questions on /r/EDH](reddit/faqs/-faqs.md)
     - [What basic land art do you like?](reddit/faqs/basic_land_art.md)
