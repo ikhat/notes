@@ -1,18 +1,21 @@
 # Borscht
 
-8 beets. (I used the small ones you usually buy in bunches of four, fewer beets if you're using big ones.).
-1/4 of a medium-sized head of green cabbage, shredded (i.e., cut into strips no more than a quarter inch wide, and as long as you like).
-3 large carrots: 2 grated, one quartered lengthwise and cut into slices. 
-3 small yellow potatoes (don't use Russet potatoes); half grated, half cut into pieces around the same size as the carrot pieces.
-1 medium/large yellow onion, cut into thin strips.
-~1/2 pound dry white kidney beans. (You can use whatever beans you like, I suppose.)
-2-3 tbsp tomato paste.
-fresh lemon juice and/or white wine vinegar, to taste.
-sugar, to taste.
-dill and parsley, to taste.
-10-12 cups vegetable stock (ideally home-made).
-salt and pepper. 
+## Ingredients
 
+- 8 beets. (I used the small ones you usually buy in bunches of four, fewer beets if you're using big ones.).
+- 1/4 of a medium-sized head of green cabbage, shredded (i.e., cut into strips no more than a quarter inch wide, and as long as you like).
+- 3 large carrots: 2 grated, one quartered lengthwise and cut into slices. 
+- 3 small yellow potatoes (don't use Russet potatoes); half grated, half cut into pieces around the same size as the carrot pieces.
+- 1 medium/large yellow onion, cut into thin strips.
+- ~1/2 pound dry white kidney beans. (You can use whatever beans you like, I suppose.)
+- 2-3 tbsp tomato paste.
+- fresh lemon juice and/or white wine vinegar, to taste.
+- sugar, to taste.
+- dill and parsley, to taste.
+- 10-12 cups vegetable stock (ideally home-made).
+- salt and pepper. 
+
+## Preparation
 - (night before) 
 	- Soak beans overnight, covered by at least two inches of cold water. At least 10-12 hours.
 	- Trim beats (but don't peel them). Put them in a pot of salted water and bring to a boil. Cover, reduce heat to a fast simmer, and cook until they're fork tender.
@@ -50,7 +53,8 @@ salt and pepper.
 		- Bring everything to a boil. Cover and reduce to a simmer for 10-20 minutes, to give everything a chance to combine nicely. 
 		- At the end of this, give it a taste to adjust seasoning. 
 
-Notes:
+## Notes
+
 	- This is ideally made a few hours before when you intend to start eating it, so the flavours get a chance to mellow and combine. 
 		- In particular, there's a lot of vegetable mass in this soup that needs time to absorb seasoning, or else the soup will be bland. 
 	- You can make your life easier by using precooked beets. I don't think you lose any flavour by doing that. 
@@ -58,25 +62,29 @@ Notes:
 
 
 
-Vegetable stock
+# Vegetable stock
 
-1 large yellow onion, rough chopped (skin and all)
-4 large carrots, rough chopped (no need to peel)
-4 stalks of celery, rough chopped
-1-2 cups of hearty greens (I used collard greens, but kale would also work; spinach is too soft and would not work), trimmed and rough chopped
-4 (or more) cloves of garlic, peeled and smashed
-1 cup parsley, rough chopped (stems too)
+## Ingredients
 
-3-4 tbsp tomato paste
-2-3 tbsp nutritional yeast
+- 1 large yellow onion, rough chopped (skin and all)
+- 4 large carrots, rough chopped (no need to peel)
+- 4 stalks of celery, rough chopped
+- 1-2 cups of hearty greens (I used collard greens, but kale would also work; spinach is too soft and would not work), trimmed and rough chopped
+- 4 (or more) cloves of garlic, peeled and smashed
+- 1 cup parsley, rough chopped (stems too)
 
-2-3 dried bay leaves
-1/2 tbsp dry thyme
-1/2 tbsp dry rosemary
-handful of black peppercorns, cracked with the side of a chef's knife
-salt and pepper
+- 3-4 tbsp tomato paste
+- 2-3 tbsp nutritional yeast
 
-10-12 cups of water
+- 2-3 dried bay leaves
+- 1/2 tbsp dry thyme
+- 1/2 tbsp dry rosemary
+- handful of black peppercorns, cracked with the side of a chef's knife
+- salt and pepper
+
+- 10-12 cups of water
+
+## Preparation
 
 - Heat a big pot over medium heat, with a bit of olive oil. Once the oil is hot, add onions, carrots, celery, and garlic. Season well. Sweat them until translucent, stirring often.
 	- Towards the end of this, add the dry thyme and rosemary.
