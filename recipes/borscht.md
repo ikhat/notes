@@ -1,4 +1,4 @@
-Borscht
+# Borscht
 
 8 beets. (I used the small ones you usually buy in bunches of four, fewer beets if you're using big ones.).
 1/4 of a medium-sized head of green cabbage, shredded (i.e., cut into strips no more than a quarter inch wide, and as long as you like).
