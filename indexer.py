@@ -1,27 +1,34 @@
 """
-https://gist.github.com/elfnor/bc2176b3fad8581c678b771afb1e3b3e
+Generate a markdown index tree of markdown files.
 
-Generate a file tree table of contents for a directory of markdown files
-run from command line:
+Original usage is to create a SUMMARY.md file for a gitbook. 
+    
+From the command line
+
     $ python indexer.py
+
 will generate a  markdown index of all markdown files in the current working
-directory and its sub folders and insert it into  a file `index.md`.
-If a previous index exists in the file it will be replaced,
-otherwise a new index will be created at the end of the file
-or a new file created.
-The index will be linked to the files
-eg.
-`  - [how_to_take_notes.md](./notetaking/how_to_take_notes.md)`
-for a link to a file `how_to_take_notes.md` in the sub-folder `notetaking`
+directory and its sub folders, other than excluded files and folders, and write
+output to `SUMMARY.md`, by default.
+
+In getting the names of files, expects files to begin
+
+`# NAME OF FILE`
+
+and outputs links of the form
+
+`  - [NAME OF FILE.md](./example/file.md)`
+
+for a file `file.md' in the sub-folder `example` in the cwd. 
+
 Options:
-the filename can be explicitly specified
+output file name can be specified
  $ python md_file_tree.py README.md
--f:  The headers in each file will be listed under the file link
--w:  Wikilink syntax `[[./notetaking/how_to_take_notes.md]]`
-     will be used instead of common markdown
-author: elfnor <elfnor.com>
-credit : the code in get_headers comes from
-         https://github.com/amaiorano/md-to-toc
+
+author: Ivan Khatchatourian
+credit: re-wored from elfnor's code here:
+        https://gist.github.com/elfnor/bc2176b3fad8581c678b771afb1e3b3e
+        elfnor.com
 """
 import os
 import argparse
