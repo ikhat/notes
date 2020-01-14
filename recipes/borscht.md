@@ -16,28 +16,29 @@
 - salt and pepper. 
 
 ## Preparation
-- (night before) 
+
+- **Night before**
 	- Soak beans overnight, covered by at least two inches of cold water. At least 10-12 hours.
 	- Trim beats (but don't peel them). Put them in a pot of salted water and bring to a boil. Cover, reduce heat to a fast simmer, and cook until they're fork tender.
 		- Cooking time varies with the size of the beets; the small ones I used take about half an hour. It's okay if they're a bit undercooked, as they'll finish cooking in the soup.
 		- Once they're done, shock them will cold water to stop them cooking. Once they're cool enough to handle, the skins should come off easily. 
 	- Make vegetable stock, ideally.
 
-- (the day-of)
-	- Beans:
+- **Day-of**
+	- **Beans**
 		- Drain beans from their soaking liquid. 
 		- Put them back in the pot and just cover them with liquid. I used half stock half water. 
 		- Bring the pot to a boil. Cover, and reduce to a simmer. 
 		- Simmer the beans until they're tender. For the white kidney beans I used, that took about an hour. Check them often. 
 		- About half way through the process, salt the cooking liquid well. (Less salt if your stock is already well seasoned, of course.)
 	- Do the rest of the veggie prep work while the beans cook. 
-	- Carrot/onion mixture:
+	- **Carrot/onion mixture**
 		- In your big pot (the one you'll eventually cook the whole soup in), heat some olive oil over medium heat. 
 		- Add the grated carrot and onion. 
 		- Season. 
 		- Cook until onions are translucent, about 10 minutes. 
 		- Scoop all of this out and reserve it for later. 
-	- Final process for the soup
+	- **Final process for the soup**
 		- Once the beans are done, drain them making sure to reserve the liquid they simmered in. 
 		- Add the bean liquid to your big pot, along with the sliced potatoes and sliced carrots. 
 		- Simmer the potatoes/carrots for 5-7 minutes.
@@ -55,10 +56,10 @@
 
 ## Notes
 
-	- This is ideally made a few hours before when you intend to start eating it, so the flavours get a chance to mellow and combine. 
-		- In particular, there's a lot of vegetable mass in this soup that needs time to absorb seasoning, or else the soup will be bland. 
-	- You can make your life easier by using precooked beets. I don't think you lose any flavour by doing that. 
-	- You can also make your life easier by using canned beans, though they won't taste as good (because you can't get flavour into them as they cook).
+- This is ideally made a few hours before when you intend to start eating it, so the flavours get a chance to mellow and combine. 
+	- In particular, there's a lot of vegetable mass in this soup that needs time to absorb seasoning, or else the soup will be bland. 
+- You can make your life easier by using precooked beets. I don't think you lose any flavour by doing that. 
+- You can also make your life easier by using canned beans, though they won't taste as good (because you can't get flavour into them as they cook).
 
 
 
