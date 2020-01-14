@@ -73,16 +73,13 @@
 - 1-2 cups of hearty greens (I used collard greens, but kale would also work; spinach is too soft and would not work), trimmed and rough chopped
 - 4 (or more) cloves of garlic, peeled and smashed
 - 1 cup parsley, rough chopped (stems too)
-
 - 3-4 tbsp tomato paste
 - 2-3 tbsp nutritional yeast
-
 - 2-3 dried bay leaves
 - 1/2 tbsp dry thyme
 - 1/2 tbsp dry rosemary
 - handful of black peppercorns, cracked with the side of a chef's knife
 - salt and pepper
-
 - 10-12 cups of water
 
 ## Preparation
