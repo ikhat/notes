@@ -26,7 +26,7 @@ output file name can be specified
  $ python md_file_tree.py README.md
 
 author: Ivan Khatchatourian
-credit: re-wored from elfnor's code here:
+credit: re-worked from elfnor's code here:
         https://gist.github.com/elfnor/bc2176b3fad8581c678b771afb1e3b3e
         elfnor.com
 """
