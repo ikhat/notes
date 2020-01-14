@@ -1,10 +1,9 @@
-# -*- coding: utf-8 -*-
 """
 https://gist.github.com/elfnor/bc2176b3fad8581c678b771afb1e3b3e
 
 Generate a file tree table of contents for a directory of markdown files
 run from command line:
-    $ python md_file_tree.py
+    $ python indexer.py
 will generate a  markdown index of all markdown files in the current working
 directory and its sub folders and insert it into  a file `index.md`.
 If a previous index exists in the file it will be replaced,
@@ -42,7 +41,8 @@ def excluded_file(file):
 
 
 def get_page_name(file):
-    """Get text after the first header in file, to use as article name in index.
+    """Get text to use as article name in index.
+    Expects markdown files to have '# NAME' as their first line.
     """
     with open(file, 'r') as data:
         title_line = data.readline()
@@ -143,7 +143,6 @@ def main():
 
     md_out_fn = os.path.join(cwd, args.filename)
     replace_index(md_out_fn, output_lines)
-
 
 if __name__ == "__main__":
     main()

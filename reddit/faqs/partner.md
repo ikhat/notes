@@ -1,8 +1,9 @@
 # What if all commanders had Partner?
 
-**Count so far:** 25
+**Count so far:** 28
 
-* 2019-08-06 - ongoing - [If all legendary creatures had partner, which two would you choose as your commanders?](https://www.reddit.com/r/EDH/comments/cmzjgf/if_all_legendary_creatures_had_partner_which_two/ew5vs35/?context=3)
+* 2020-01-11 - ongoing - [Any partners you want](https://www.reddit.com/r/EDH/comments/enhcg6/any_partners_you_want/)
+* 2019-08-06 - 55 posts - [If all legendary creatures had partner, which two would you choose as your commanders?](https://www.reddit.com/r/EDH/comments/cmzjgf/if_all_legendary_creatures_had_partner_which_two/ew5vs35/?context=3)
 * 2019-04-19 - 33 posts - [Non partner commanders as partners?](https://www.reddit.com/r/EDH/comments/bf1ieb/non_partner_commanders_as_partners/)
 * 2019-03-24 - 14 posts - [What if every monocoloured legend had Partner?](https://www.reddit.com/r/EDH/comments/b4zkae/what_if_every_monocoloured_legend_had_partner/)
 * 2019-02-26 - 41 posts - [Theoretical question for the deck brewers of this sub.](https://www.reddit.com/r/EDH/comments/auxdh1/theoretical_question_for_the_deck_brewers_of_this/)

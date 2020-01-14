@@ -2,8 +2,9 @@
 
 ## Discussions about whether proxies are okay with people/groups
 
-**Count so far:** 78
+**Count so far:** 79
 
+* 2020-01-13 - ongoing - [Whats your view? Proxies a MTGO rules of collecting](https://www.reddit.com/r/EDH/comments/eo5dye/whats_your_view_proxies_a_mtgo_rules_of_collecting/)
 * 2019-04-09 - 250 posts - [Playing with proxies?](https://www.reddit.com/r/EDH/comments/bb3pmv/playing_with_proxies/)
 * 2019-04-09 - 101 posts - [Regarding Proxies](https://www.reddit.com/r/EDH/comments/bb9pnh/regarding_proxies/)
 * 2019-03-11 - 30 posts - [What is the rules for Proxies in your meta?](https://www.reddit.com/r/EDH/comments/azmn7z/what_is_the_rules_for_proxies_in_your_meta/)

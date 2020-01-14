@@ -1,7 +1,8 @@
 # How do I win with my Muldrotha deck?
 
-**Count so far:** 17
+**Count so far:** 18
 
+* 2019-12-12 - 29 posts - [Win conditions for Muldrotha, the Gravetide.](https://www.reddit.com/r/EDH/comments/e9i7gj/win_conditions_for_muldrotha_the_gravetide/)
 * 2019-06-06 - 22 posts - [Muldrotha Lands Wincon](https://www.reddit.com/r/EDH/comments/bxhuh8/muldrotha_lands_wincon/)
 * 2018-10-31 - 99 posts - [Muldrotha win-cons](https://www.reddit.com/r/EDH/comments/9svl90/muldrotha_wincons/)
 * 2018-08-26 - 191 posts - [Muldrotha and her struggle to "win"](https://www.reddit.com/r/EDH/comments/9ae93p/muldrotha_and_her_struggle_to_win/)
