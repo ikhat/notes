@@ -2,8 +2,9 @@
 
 ## /r/EDH posts
 
-**Count so far:** 41
+**Count so far:** 42
 
+* 2020-02-10 - 43 posts - [Do I really need 10 fetch lands in a WUBRG commander deck?](https://www.reddit.com/r/EDH/comments/f1lbpg/do_i_really_need_10_fetch_lands_in_a_wubrg/)
 * 2019-02-17 - 27 posts - [Need help building a 5C mana base on an extreme budget](https://www.reddit.com/r/EDH/comments/arorxk/need_help_building_a_5c_mana_base_on_an_extreme/)
 * 2019-01-19 - 40 posts - [Need guidance on a budget five color Mana base](https://www.reddit.com/r/EDH/comments/ahq7wz/need_guidance_on_a_budget_five_color_mana_base/)
 * 2019-01-02 - 34 posts - [Budget 5-Color manabase?](https://www.reddit.com/r/EDH/comments/abtf7m/budget_5color_manabase/)
