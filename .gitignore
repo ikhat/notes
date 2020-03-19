@@ -1,7 +1,8 @@
 .DS_Store
 *.sublime-workspace
 *.sublime-project
-*.txt
+./*.txt
+mtg/*.txt
 offline/
 general/
 reddit/mod/

@@ -17,6 +17,7 @@
   - [Singapore Sling](cocktails/singapore_sling.md)
   - [Trinidad Sour](cocktails/trinidad_sour.md)
   - [Tuxedo](cocktails/tuxedo.md)
+- [Lists](lists/-lists.md)
 - [MTG](mtg/-mtg.md)
   - [Legacy GP Results](mtg/legacygps.md)
 - [Recipes](recipes/-recipes.md)
