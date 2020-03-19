@@ -51,7 +51,7 @@ def get_page_name(file):
     """Get text to use as article name in index.
     Expects markdown files to have '# NAME' as their first line.
     """
-    with open(file, 'r') as data:
+    with open(file, 'r', encoding='utf8') as data:
         title_line = data.readline()
         title_line = title_line.rstrip()
         return title_line[2:]
