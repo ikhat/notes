@@ -110,7 +110,7 @@ Do Make Say Think - Winter Hymn Country Hymn Secret Hymn [2LP - 180g]
 Nick Drake - Fruit Tree [3LP + DVD]
 Drudkh - Autumn Aurora [LP - 180g] (Season of Mist reissue)
 Dungen - 4 [LP - white]
-Dungen - Satt Att Se [45rpm 12" Single]
+Dungen - Sätt Att Se [45rpm 12" Single]
 Dungen - Skit I Altt [LP - pink]
 Dungen - Tio Bitar [LP - 180g]
 Eagles of Death Metal - Heart On [180g LP + translucent red 7" 45rpm single]
