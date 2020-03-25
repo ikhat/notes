@@ -23,6 +23,7 @@
   - [Legacy GP Results](mtg/legacygps.md)
 - [Recipes](recipes/-recipes.md)
   - [Borscht](recipes/borscht.md)
+  - [Pancakes](recipes/pancakes.md)
 - [reddit](reddit/-reddit.md)
   - [Frequently asked questions on /r/EDH](reddit/faqs/-faqs.md)
     - [What basic land art do you like?](reddit/faqs/basic_land_art.md)
