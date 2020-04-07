@@ -49,7 +49,7 @@
 		- Add the beans and beets to the pot. 
 			- At this point you should be at approximately your final volume of soup, so if there isn't enough liquid for the amount of stuff, add more stock/water.
 		- Season again. 
-		- Add at least 2 tbsp tomato paste, at least 1 tablespoon of sugar, and at least 1 tablespoon of acid (lemon juice or vinegar.
+		- Add at least 2 tbsp tomato paste, at least 1 tablespoon of sugar, and at least 1 tablespoon of acid (lemon juice or vinegar).
 		- Add herbs. I suggest at least a half cup of chopped parsley and dill, though you'll adjust this to taste.
 		- Bring everything to a boil. Cover and reduce to a simmer for 10-20 minutes, to give everything a chance to combine nicely. 
 		- At the end of this, give it a taste to adjust seasoning. 

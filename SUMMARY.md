@@ -2,6 +2,8 @@
 
 <!-- index start -->
 
+- [Android](android/-android.md)
+  - [Android Home Screen](android/homescreen.md)
 - [Cocktails](cocktails/-cocktails.md)
   - [Amaretto Sour](cocktails/amaretto_sour.md)
   - [Bourbon Renewal](cocktails/bourbon_renewal.md)
