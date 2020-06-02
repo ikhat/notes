@@ -2,6 +2,7 @@
 
 <!-- index start -->
 
+- [m things](vim.md)
 - [Android](android/-android.md)
   - [Android Home Screen](android/homescreen.md)
 - [Cocktails](cocktails/-cocktails.md)
@@ -24,6 +25,7 @@
 - [MTG](mtg/-mtg.md)
   - [Legacy GP Results](mtg/legacygps.md)
 - [Recipes](recipes/-recipes.md)
+  - [--- scratch pad ---%%](recipes/%%--- scratch pad ---%%.md)
   - [Borscht](recipes/borscht.md)
   - [Pancakes](recipes/pancakes.md)
 - [reddit](reddit/-reddit.md)
