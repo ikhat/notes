@@ -13,6 +13,7 @@
   - [The Greenpoint](cocktails/greenpoint.md)
   - [Jungle Bird](cocktails/jungle_bird.md)
   - [Liquid Wisdom](cocktails/liquid_wisdom.md)
+  - [Manhattan - Patrick](cocktails/manhattan-patrick.md)
   - [Meathook](cocktails/meathook.md)
   - [Mojito](cocktails/mojito.md)
   - [Paper Plane (my way)](cocktails/paper_plane.md)
