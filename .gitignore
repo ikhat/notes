@@ -1,4 +1,5 @@
 .DS_Store
+..bfg-report/
 *.sublime-workspace
 *.sublime-project
 ./*.txt
