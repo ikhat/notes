@@ -2,7 +2,7 @@
 
 ## Discussions about whether proxies are okay with people/groups
 
-**Count so far:** 80 
+**Count so far:** 81 
 
 * 2020-06-29 - 27 posts - [How do you feel about proxies?](https://www.reddit.com/r/EDH/comments/hhxs4y/how_do_you_feel_about_proxies/)
 * 2020-02-06 - 136 posts - [Where do you draw the line with proxies?](https://www.reddit.com/r/EDH/comments/ezwyaf/where_do_you_draw_the_line_with_proxies/)
