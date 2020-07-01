@@ -32,35 +32,35 @@ It's optimized for functionality rather than aesthetics, but I'm going to make h
 
 	* **Camera icon** 
 
-	 Tap opens the Google camera app. Swipe opens a folder of another camera app, the Imgur app, Google Lens. 
+		Tap opens the Google camera app. Swipe opens a folder of another camera app, the Imgur app, Google Lens. 
 	* **Chrome icon**
 
-	 Tap opens Chrome. Swipe opens a folder of shopping/buying-things apps, like Amazon, Uber (Eats), Starbucks, etc. 
+		Tap opens Chrome. Swipe opens a folder of shopping/buying-things apps, like Amazon, Uber (Eats), Starbucks, etc. 
 	* **Envelope icon**
 
-	 Tap opens Gmail. No folder under this one at the moment. 
+		Tap opens Gmail. No folder under this one at the moment. 
 	* **SMS icon**
 
-	 Tap opens my SMS app of choice [Textra](https://play.google.com/store/apps/details?id=com.textra). Swipe opens a folder of communications apps like Facebook Messenger Lite, WhatsApp, Hangouts, Discord, etc.).
+		Tap opens my SMS app of choice [Textra](https://play.google.com/store/apps/details?id=com.textra). Swipe opens a folder of communications apps like Facebook Messenger Lite, WhatsApp, Hangouts, Discord, etc.).
 	* **Phone icon**
 
-	 Tap opens the phone. Swipe opens a folder with just phone and contacts in it at the moment. Rarely use this folder, so I might repurpose it somehow. 
+		Tap opens the phone. Swipe opens a folder with just phone and contacts in it at the moment. Rarely use this folder, so I might repurpose it somehow. 
 	* **Notes icon**
 
-	 Tap opens my podcast app of choice [Podcast Republic](https://play.google.com/store/apps/details?id=com.itunestoppodcastplayer.app). Swipe opens a folder of Spotify, PowerAmp, Bandcamp, Shazam, and an audiobook app.
+		Tap opens my podcast app of choice [Podcast Republic](https://play.google.com/store/apps/details?id=com.itunestoppodcastplayer.app). Swipe opens a folder of Spotify, PowerAmp, Bandcamp, Shazam, and an audiobook app.
 * **Dots** 
 
  	Each of these is also a folder, but they work the opposite way; tapping on the dot opens the folder, while swiping opens the first app in the folder. This way I can have quick access to a folder of frequently-used apps, and instant access to the one I used most in each folder.
 
 	* **Left dot**
 
-	 Games. The ones I use most frequently. These are all time passing games that I usually play on public transit while my attention is on a podcast. Nothing fancy. 
+		Games. The ones I use most frequently. These are all time passing games that I usually play on public transit while my attention is on a podcast. Nothing fancy. 
 	* **Middle dot**
 
-	 My 12 most used apps. I've had some version of this three-dots setup for a while, and over that time I have slowly refined these 12 apps. I know exactly where each icon is in the folder by muscle memory. My reddit app of choice ([Joey](https://play.google.com/store/apps/details?id=o.o.joey)) opens when you swipe on the dot. 
+		My 12 most used apps. I've had some version of this three-dots setup for a while, and over that time I have slowly refined these 12 apps. I know exactly where each icon is in the folder by muscle memory. My reddit app of choice ([Joey](https://play.google.com/store/apps/details?id=o.o.joey)) opens when you swipe on the dot. 
 	* **Right dot**
 
-	 File management apps of various forms. A gallery app, Google Photos, Dropbox, Google Drive, Amaze file browser, and Join. 
+		File management apps of various forms. A gallery app, Google Photos, Dropbox, Google Drive, Amaze file browser, and Join. 
 * **Gestures**
 
  	Nova Launcher allows you to assign actions to certain gestures performed on the home screen. This is good, because it allows you to "hide" functionality. 
@@ -72,4 +72,6 @@ It's optimized for functionality rather than aesthetics, but I'm going to make h
 	* Two-finger swipe up brings up Nova Launcher settings.
 	*  
 * **[Sesame](https://play.google.com/store/apps/details?id=ninja.sesame.app.edge)**
-	* Pressing the home button on the home screen it brings up Sesame, an app which essentially functions like a Spotlight search on the phone. Anything you want to do that isn't accessible in the ways listed above is a few keystrokes away via Sesame. For example, I can use Sesame to open Joey to a specific subreddits, open a particular settings subsection, message or email or call specific people, start a stopwatch, search within the Wikipedia or Ebay app, open Google maps centred at my home, and so on. It's amazing.
+	Pressing the home button on the home screen it brings up Sesame, an app which essentially functions like a Spotlight search on the phone. Anything you want to do that isn't accessible in the ways listed above is a few keystrokes away via Sesame. 
+
+	For example, I can use Sesame to open Joey to a specific subreddits, open a particular settings subsection, message or email or call specific people, start a stopwatch, search within the Wikipedia or Ebay app, open Google maps centred at my home, and so on. It's amazing.
