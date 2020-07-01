@@ -16,7 +16,8 @@ It's optimized for functionality rather than aesthetics, but I'm going to make h
 
 * **The widget**
 
- Made by me with [Kustom Widget Maker](https://play.google.com/store/apps/details?id=org.kustom.widget). The font is Helvetica Bold.
+	Made by me with [Kustom Widget Maker](https://play.google.com/store/apps/details?id=org.kustom.widget). The font is Helvetica Bold.
+	
 	* Tapping on the time brings up the Clock app, which I use for alarms and timers.
 	* Tapping on the date brings up Google Calendar.
 	* The "81" is the battery percentage, and tapping on it brings up battery settings.
