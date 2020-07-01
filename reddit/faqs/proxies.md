@@ -4,7 +4,8 @@
 
 **Count so far:** 80 
 
-* 2020-02-06 - ongoing - [Where do you draw the line with proxies?](https://www.reddit.com/r/EDH/comments/ezwyaf/where_do_you_draw_the_line_with_proxies/)
+* 2020-06-29 - 27 posts - [How do you feel about proxies?](https://www.reddit.com/r/EDH/comments/hhxs4y/how_do_you_feel_about_proxies/)
+* 2020-02-06 - 136 posts - [Where do you draw the line with proxies?](https://www.reddit.com/r/EDH/comments/ezwyaf/where_do_you_draw_the_line_with_proxies/)
 * 2020-01-13 - 27 posts - [Whats your view? Proxies a MTGO rules of collecting](https://www.reddit.com/r/EDH/comments/eo5dye/whats_your_view_proxies_a_mtgo_rules_of_collecting/)
 * 2019-04-09 - 250 posts - [Playing with proxies?](https://www.reddit.com/r/EDH/comments/bb3pmv/playing_with_proxies/)
 * 2019-04-09 - 101 posts - [Regarding Proxies](https://www.reddit.com/r/EDH/comments/bb9pnh/regarding_proxies/)
