@@ -72,6 +72,7 @@ It's optimized for functionality rather than aesthetics, but I'm going to make h
 	* Two-finger swipe up brings up Nova Launcher settings.
 	*  
 * **[Sesame](https://play.google.com/store/apps/details?id=ninja.sesame.app.edge)**
+
 	Pressing the home button on the home screen it brings up Sesame, an app which essentially functions like a Spotlight search on the phone. Anything you want to do that isn't accessible in the ways listed above is a few keystrokes away via Sesame. 
 
 	For example, I can use Sesame to open Joey to a specific subreddits, open a particular settings subsection, message or email or call specific people, start a stopwatch, search within the Wikipedia or Ebay app, open Google maps centred at my home, and so on. It's amazing.
