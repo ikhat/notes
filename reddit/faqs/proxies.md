@@ -2,8 +2,10 @@
 
 ## Discussions about whether proxies are okay with people/groups
 
-**Count so far:** 81 
+**Count so far:** 83
 
+* 2020-08-03 - ongoing - [Feelingsb on proxies?](https://www.reddit.com/r/EDH/comments/i2wiyc/feelingsb_on_proxies/)
+* 2020-07-16 - 33 posts - [Opinions on proxies](https://www.reddit.com/r/EDH/comments/hsi0s8/opinions_on_proxies/)
 * 2020-06-29 - 27 posts - [How do you feel about proxies?](https://www.reddit.com/r/EDH/comments/hhxs4y/how_do_you_feel_about_proxies/)
 * 2020-02-06 - 136 posts - [Where do you draw the line with proxies?](https://www.reddit.com/r/EDH/comments/ezwyaf/where_do_you_draw_the_line_with_proxies/)
 * 2020-01-13 - 27 posts - [Whats your view? Proxies a MTGO rules of collecting](https://www.reddit.com/r/EDH/comments/eo5dye/whats_your_view_proxies_a_mtgo_rules_of_collecting/)

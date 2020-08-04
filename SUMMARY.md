@@ -28,6 +28,7 @@
 - [Recipes](recipes/-recipes.md)
   - [--- scratch pad ---%%](recipes/%%--- scratch pad ---%%.md)
   - [Borscht](recipes/borscht.md)
+  - [Greek Pulled Chicken](recipes/greek-chicken.md)
   - [Pancakes](recipes/pancakes.md)
   - [Ranch Dressing](recipes/ranch.md)
 - [reddit](reddit/-reddit.md)
