@@ -26,7 +26,7 @@
 - [MTG](mtg/-mtg.md)
   - [Legacy GP Results](mtg/legacygps.md)
 - [Recipes](recipes/-recipes.md)
-  - [--- scratch pad ---%%](recipes/%%--- scratch pad ---%%.md)
+  - [Balsamic Chicken Thighs](recipes/balsamic-chicken.md)
   - [Borscht](recipes/borscht.md)
   - [Greek Pulled Chicken](recipes/greek-chicken.md)
   - [Pancakes](recipes/pancakes.md)
