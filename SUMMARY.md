@@ -19,6 +19,7 @@
   - [Paper Plane (my way)](cocktails/paper_plane.md)
   - [Ramos Gin Fizz](cocktails/ramos_gin_fizz.md)
   - [Singapore Sling](cocktails/singapore_sling.md)
+  - [Toronto](cocktails/toronto.md)
   - [Trinidad Sour](cocktails/trinidad_sour.md)
   - [Tuxedo](cocktails/tuxedo.md)
 - [Lists](lists/-lists.md)
