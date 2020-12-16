@@ -1,6 +1,6 @@
 # Sell me...
 
-**Count so far:** 208
+**Count so far:** 209
 
 ## Non-specific, including "unique", and "fun" commanders
 
@@ -109,7 +109,7 @@
  * 2016-28-12 - 131 posts - [**WANTED** Fun and unique (non-gonti) budget mono-Black deck idea ](https://www.reddit.com/r/EDH/comments/5knkb2/wanted_fun_and_unique_nongonti_budget_monoblack/)
  * 2016-10-09 - 106 posts - [Call to Mono Black players!](https://www.reddit.com/r/EDH/comments/56oavv/call_to_mono_black_players/)
 * Mono Red
- * 2020-12-13 - 70 posts (ongoing) - [Seeking a fun, semi-competitive, RED commander](https://www.reddit.com/r/EDH/comments/kcf3gq/seeking_a_fun_semicompetitive_red_commander/)
+ * 2020-12-13 - 70 posts - [Seeking a fun, semi-competitive, RED commander](https://www.reddit.com/r/EDH/comments/kcf3gq/seeking_a_fun_semicompetitive_red_commander/)
  * 2017-09-29 - 169 posts - [Sell Me On Your Mono-R Commander!](https://www.reddit.com/r/EDH/comments/737pf6/sell_me_on_your_monor_commander/)
  * 2017-07-16 - 56 posts - [Sell me on your mono-red commander!](https://www.reddit.com/r/EDH/comments/6nof5k/sell_me_on_your_monored_commander/)
  * 2016-07-25 - 210 posts - [Best Mono-R Commander?](https://www.reddit.com/r/EDH/comments/4ugieg/best_monor_commander/)
@@ -139,7 +139,7 @@
  * 2017-05-08 - 39 posts - [Sell me your Rakdos Commander](https://www.reddit.com/r/EDH/comments/69v76n/sell_me_your_rakdos_commander/)
  * 2015-05-23 - 45 posts - [R/B Commander players, sell me on your general!](https://www.reddit.com/r/EDH/comments/3715vp/rb_commander_players_sell_me_on_your_general/)
 * RG (Gruul)
- * 2020-12-13 - 40 posts (ongoing) - [Recommend a Gruul Commander for me](https://www.reddit.com/r/EDH/comments/kcj276/recommend_a_gruul_commander_for_me/)
+ * 2020-12-13 - 45 posts - [Recommend a Gruul Commander for me](https://www.reddit.com/r/EDH/comments/kcj276/recommend_a_gruul_commander_for_me/)
  * 2018-05-19 - 111 posts - [I've finished my Daxos deck and need a new project. Sell me on your green/red commander!](https://www.reddit.com/r/EDH/comments/8kp29i/ive_finished_my_daxos_deck_and_need_a_new_project/)
  * 2016-08-29 - 38 posts - [Sell me on your Gruul commander!](https://www.reddit.com/r/EDH/comments/5076j1/sell_me_on_your_gruul_commander/)
  * 2015-12-23 - 28 posts - [Sell me on Gruul.](https://www.reddit.com/r/EDH/comments/3xwmja/sell_me_on_gruul/)
@@ -148,6 +148,7 @@
  * 2016-07-20 - 47 posts - [Best Selesnya commander?](https://www.reddit.com/r/EDH/comments/4tt37g/best_selesnya_commander/)
  * 2014-11-04 - 58 posts - [Help me find a G/W Commander that doesn't bore me to tears](https://www.reddit.com/r/EDH/comments/2l81en/help_me_find_a_gw_commander_that_doesnt_bore_me/)
 * UR (Izzet)
+ * 2020-12-16 - ongoing - [Suggestions on an Izzet commander](https://www.reddit.com/r/EDH/comments/kebhps/suggestions_on_an_izzet_commander/)
  * 2019-01-29 - 21 posts - [Sell me on your favorite U/R commander](https://www.reddit.com/r/EDH/comments/akvhsl/sell_me_on_your_favorite_ur_commander/)
  * 2017-11-12 - 29 posts - [What is the most fun Izzet commander?](https://www.reddit.com/r/EDH/comments/7cfzfj/what_is_the_most_fun_izzet_commander/)
  * 2017-11-06 - 26 posts - [I need more variety. Sell me on your UR/URx Commanders!](https://www.reddit.com/r/EDH/comments/7b8zxi/i_need_more_variety_sell_me_on_your_ururx/)
@@ -231,7 +232,8 @@
  * 2017-04-18 - 30 posts - [Sell me on your Voltron commanders](https://www.reddit.com/r/EDH/comments/65nep7/sell_me_on_your_voltron_commanders/)
  * 2016-02-28 - 50 posts - [Sell me Voltron](https://www.reddit.com/r/EDH/comments/484rwr/sell_me_voltron/)
 * Miscellaneous
- * Landfall/lands matter        2020-07-29 - 50 posts - [Good "Land matters/Landfall" commanders?](https://www.reddit.com/r/EDH/comments/i0699f/good_land_matterslandfall_commanders/)
+ * Pinger:                      2020-12-16 - ongoing - [Best "Pinger" commander?](https://www.reddit.com/r/EDH/comments/kecal1/best_pinger_commander/)            
+ * Landfall/lands matter:       2020-07-29 - 50 posts - [Good "Land matters/Landfall" commanders?](https://www.reddit.com/r/EDH/comments/i0699f/good_land_matterslandfall_commanders/)
  * Lands: 						2020-02-06 - 47 posts - [Sell me on your lands commander](https://www.reddit.com/r/EDH/comments/f00azp/sell_me_on_your_lands_commander/)
  * <2 CMC:						2019-08-08 - 77 posts - [Sell me on your <2 cmc commander!](https://www.reddit.com/r/EDH/comments/cnex6j/sell_me_on_your_2_cmc_commander/)
  * Lands:						2019-04-10 - 9 posts - [Sell Me on a Cool Lands Commander](https://www.reddit.com/r/EDH/comments/bbs8ax/sell_me_on_a_cool_lands_commander/)
