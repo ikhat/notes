@@ -1,6 +1,6 @@
 # Sell me...
 
-**Count so far:** 220
+**Count so far:** 221
 
 ## Non-specific, including "unique", and "fun" commanders
 
@@ -153,7 +153,7 @@
  * 2016-07-20 - 47 posts - [Best Selesnya commander?](https://www.reddit.com/r/EDH/comments/4tt37g/best_selesnya_commander/)
  * 2014-11-04 - 58 posts - [Help me find a G/W Commander that doesn't bore me to tears](https://www.reddit.com/r/EDH/comments/2l81en/help_me_find_a_gw_commander_that_doesnt_bore_me/)
 * UR (Izzet)
- * 2020-12-16 - ongoing - [Suggestions on an Izzet commander](https://www.reddit.com/r/EDH/comments/kebhps/suggestions_on_an_izzet_commander/)
+ * 2020-12-16 - 43 posts - [Suggestions on an Izzet commander](https://www.reddit.com/r/EDH/comments/kebhps/suggestions_on_an_izzet_commander/)
  * 2019-11-04 - 38 posts - [Sell me on your Izzet commander](https://www.reddit.com/r/EDH/comments/driwlf/sell_me_on_your_izzet_commander/)
  * 2019-01-29 - 21 posts - [Sell me on your favorite U/R commander](https://www.reddit.com/r/EDH/comments/akvhsl/sell_me_on_your_favorite_ur_commander/)
  * 2017-11-12 - 29 posts - [What is the most fun Izzet commander?](https://www.reddit.com/r/EDH/comments/7cfzfj/what_is_the_most_fun_izzet_commander/)
@@ -190,6 +190,7 @@
 * WGR (Naya)
  * 2017-06-18 - 41 posts - [Sell me on your Naya commander](https://www.reddit.com/r/EDH/comments/6hypzg/sell_me_on_your_naya_commander/)
 * WBR (Mardu)
+ * 2020-12-29 - ongoing - [Suggestions for a Mardu commander?](https://www.reddit.com/r/EDH/comments/klv0bv/suggestions_for_a_mardu_commander/)
  * 2017-11-10 - 20 posts - [Sell me your mardu commander!](https://www.reddit.com/r/EDH/comments/7byhvh/sell_me_your_mardu_commander/)
  * 2017-09-02 - 40 posts - [Sell me on your Mardu commander!](https://www.reddit.com/r/EDH/comments/6xo1nq/sell_me_on_your_mardu_commander/)
  * 2016-11-13 - 23 posts - [Sell me on a Mardu Commander](https://www.reddit.com/r/EDH/comments/5cqs2b/sell_me_on_a_mardu_commander/)
@@ -242,7 +243,7 @@
  * 2017-04-18 - 30 posts - [Sell me on your Voltron commanders](https://www.reddit.com/r/EDH/comments/65nep7/sell_me_on_your_voltron_commanders/)
  * 2016-02-28 - 50 posts - [Sell me Voltron](https://www.reddit.com/r/EDH/comments/484rwr/sell_me_voltron/)
 * Miscellaneous
- * Pinger:                      2020-12-16 - ongoing - [Best "Pinger" commander?](https://www.reddit.com/r/EDH/comments/kecal1/best_pinger_commander/)            
+ * Pinger:                      2020-12-16 - 38 posts - [Best "Pinger" commander?](https://www.reddit.com/r/EDH/comments/kecal1/best_pinger_commander/)            
  * Landfall/lands matter:       2020-07-29 - 50 posts - [Good "Land matters/Landfall" commanders?](https://www.reddit.com/r/EDH/comments/i0699f/good_land_matterslandfall_commanders/)
  * Lands: 						2020-02-06 - 47 posts - [Sell me on your lands commander](https://www.reddit.com/r/EDH/comments/f00azp/sell_me_on_your_lands_commander/)
  * <2 CMC:						2019-08-08 - 77 posts - [Sell me on your <2 cmc commander!](https://www.reddit.com/r/EDH/comments/cnex6j/sell_me_on_your_2_cmc_commander/)
