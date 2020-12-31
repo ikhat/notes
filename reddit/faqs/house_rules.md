@@ -1,9 +1,11 @@
 # What are your house rules?
 
-**Count so far:** 36
+**Count so far:** 38
 
 ## General questions
 
+* 2020-12-17 - 25 posts - [What are your house rules?](https://www.reddit.com/r/EDH/comments/kestoc/what_are_your_house_rules/)
+* 2020-08-21 - 36 posts - [House Rules](https://www.reddit.com/r/EDH/comments/ie4wwn/house_rules/)
 * 2019-10-27 - ongoing - [What unique rules do each of your play groups have?](https://www.reddit.com/r/EDH/comments/do14tk/what_unique_rules_do_each_of_your_play_groups_have/)
 * 2019-04-28 - 40 posts - [Interesting House Rules?](https://www.reddit.com/r/EDH/comments/bidzzt/interesting_house_rules/)
 * 2019-04-27 - 361 posts - [Worst houserules ever?](https://www.reddit.com/r/EDH/comments/bi1wt5/worst_houserules_ever/)
