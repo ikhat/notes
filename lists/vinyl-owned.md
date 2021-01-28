@@ -334,7 +334,7 @@ Sleep - Dopesmoker [2LP]
 Sleep - Sleep's Holy Mountain (Original Press) [LP]
 Sleep - Sleep's Holy Mountain (Kreation Records reissue) [LP - 150g red/blue swirl]
 Sonic Youth - The Eternal [2LP - 180g]
-Arthur Spink - Accordionly Yours
+Arthur Spink - Accordionly Yours [LP]
 Spinnerette - Spinnerette [LP - hot pink]
 Squarepusher - Hello Everything [3LP]
 Squarepusher - Just a Souvenir [LP]

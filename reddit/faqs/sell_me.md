@@ -1,9 +1,10 @@
 # Sell me...
 
-**Count so far:** 221
+**Count so far:** 225
 
-## Non-specific, including "unique", and "fun" commanders
+## Non-specific, including "unique", "fun" commanders, since that is in no way specific
 
+* 2021-01-23 - 161 posts - [Suggestions for commanders that aren't kill-on-sight?](https://www.reddit.com/r/EDH/comments/l39zkl/suggestions_for_commanders_that_arent_killonsight/)
 * 2019-12-29 - 192 posts - [Sell me on your weird, strange, and unexpected commander.](https://www.reddit.com/r/EDH/comments/eh7cm3/sell_me_on_your_weird_strange_and_unexpected/)
 * 2019-08-28 - 153 posts - [Sell me on a new commander.](https://www.reddit.com/r/EDH/comments/cwm7rj/sell_me_on_a_new_commander/)
 * 2019-01-29 - 361 posts - [Who's your favorite commander?](https://www.reddit.com/r/EDH/comments/al26ra/whos_your_favorite_commander/)
@@ -190,7 +191,7 @@
 * WGR (Naya)
  * 2017-06-18 - 41 posts - [Sell me on your Naya commander](https://www.reddit.com/r/EDH/comments/6hypzg/sell_me_on_your_naya_commander/)
 * WBR (Mardu)
- * 2020-12-29 - ongoing - [Suggestions for a Mardu commander?](https://www.reddit.com/r/EDH/comments/klv0bv/suggestions_for_a_mardu_commander/)
+ * 2020-12-29 - 71 posts - [Suggestions for a Mardu commander?](https://www.reddit.com/r/EDH/comments/klv0bv/suggestions_for_a_mardu_commander/)
  * 2017-11-10 - 20 posts - [Sell me your mardu commander!](https://www.reddit.com/r/EDH/comments/7byhvh/sell_me_your_mardu_commander/)
  * 2017-09-02 - 40 posts - [Sell me on your Mardu commander!](https://www.reddit.com/r/EDH/comments/6xo1nq/sell_me_on_your_mardu_commander/)
  * 2016-11-13 - 23 posts - [Sell me on a Mardu Commander](https://www.reddit.com/r/EDH/comments/5cqs2b/sell_me_on_a_mardu_commander/)
@@ -219,6 +220,10 @@
 
 ## Specific themes or strategies
 
+* Aristocrats
+ * 2021-01-28 - ongoing - [Best aristocrat commander? ](https://www.reddit.com/r/EDH/comments/l6j3c6/best_aristocrat_commander/) 
+ * 2021-01-22 - 40 posts - [Best Aristocrats commander?](https://www.reddit.com/r/EDH/comments/l1pabb/best_aristocrats_commander/)
+ * 2017-08-16 - 30 posts - [Sell me on your aristocrats commander!](https://www.reddit.com/r/EDH/comments/6u2cvz/sell_me_on_your_aristocrats_commander/)
 * Artifact focused 
  * 2017-04-22 - 59 posts - [Sell me on your artifact commanders!](https://www.reddit.com/r/EDH/comments/66wfjt/sell_me_on_your_artifact_commanders/)
  * 2017-02-13 - 24 posts - [What artifact commander?](https://www.reddit.com/r/EDH/comments/5tvblh/what_artifact_commander/)
@@ -243,6 +248,7 @@
  * 2017-04-18 - 30 posts - [Sell me on your Voltron commanders](https://www.reddit.com/r/EDH/comments/65nep7/sell_me_on_your_voltron_commanders/)
  * 2016-02-28 - 50 posts - [Sell me Voltron](https://www.reddit.com/r/EDH/comments/484rwr/sell_me_voltron/)
 * Miscellaneous
+ * Non-combat:                  2021-01-23 - 33 posts - [What are your favorite non-combat commanders](https://www.reddit.com/r/EDH/comments/l34btv/what_are_your_favorite_noncombat_commanders/)                  
  * Pinger:                      2020-12-16 - 38 posts - [Best "Pinger" commander?](https://www.reddit.com/r/EDH/comments/kecal1/best_pinger_commander/)            
  * Landfall/lands matter:       2020-07-29 - 50 posts - [Good "Land matters/Landfall" commanders?](https://www.reddit.com/r/EDH/comments/i0699f/good_land_matterslandfall_commanders/)
  * Lands: 						2020-02-06 - 47 posts - [Sell me on your lands commander](https://www.reddit.com/r/EDH/comments/f00azp/sell_me_on_your_lands_commander/)
@@ -261,7 +267,6 @@
  * Toolbox:                     2017-11-23 - 25 posts - [Help me find a Toolbox General](https://www.reddit.com/r/EDH/comments/7f33or/help_me_find_a_toolbox_general/)
  * Budget deck for new players: 2017-10-22 - 21 posts - [Sell me on a budget deck that I can let friends (casual or new players) borrow.](https://www.reddit.com/r/EDH/comments/77xnh1/sell_me_on_a_budget_deck_that_i_can_let_friends/)
  * Spellslinger: 				2017-10-07 - 107 posts - [Sell me on a spellslinger commander](https://www.reddit.com/r/EDH/comments/74whou/sell_me_on_a_spellslinger_commander/)
- * Aristocrats: 				2017-08-16 - 30 posts - [Sell me on your aristocrats commander!](https://www.reddit.com/r/EDH/comments/6u2cvz/sell_me_on_your_aristocrats_commander/)
  * Combo: 						2017-07-22 - 123 posts - [Sell me your Com(bo)mander!](https://www.reddit.com/r/EDH/comments/6oupi4/sell_me_your_combomander/)
  * Land destruction: 			2017-06-15 - 73 posts - [Sell me on your degenerate land destruction](https://www.reddit.com/r/EDH/comments/6hhhey/sell_me_on_your_degenerate_land_destruction/)
  * Less competitive: 			2017-05-23 - 83 posts - [Sell me on a less competitive deck.](https://www.reddit.com/r/EDH/comments/6cvc13/sell_me_on_a_less_competitive_deck/)
