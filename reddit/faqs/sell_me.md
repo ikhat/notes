@@ -1,6 +1,6 @@
 # Sell me...
 
-**Count so far:** 225
+**Count so far:** 230
 
 ## Non-specific, including "unique", "fun" commanders, since that is in no way specific
 
@@ -102,6 +102,7 @@
  * 2015-03-11 - 93 posts - [Looking for a mono blue commander that does something other than full on control](https://www.reddit.com/r/EDH/comments/2yo33t/looking_for_a_mono_blue_commander_that_does/)
  * 2015-02-13 - 48 posts - [I need to scratch my mono blue itch...](https://www.reddit.com/r/EDH/comments/2vtlg4/i_need_to_scratch_my_mono_blue_itch/)
 * Mono Black
+ * 2021-02-02 - ongoing - [Looking for a New and Unique Mono Black Commander. Any recommendations?](https://www.reddit.com/r/EDH/comments/lb5h1i/looking_for_a_new_and_unique_mono_black_commander/) 
  * 2020-07-12 - 103 posts - [Fun Monoblack commander?](https://www.reddit.com/r/EDH/comments/hpib1h/fun_monoblack_commander/)
  * 2019-09-11 - 45 posts - [Sell me on a Mono Black commander - Gonti or Yawgmoth !](https://www.reddit.com/r/EDH/comments/d2l6kt/sell_me_on_a_mono_black_commander_gonti_or/)
  * 2019-08-11 - 45 posts - [Sell me on a mono black or Rakdos Commander!](https://www.reddit.com/r/EDH/comments/cotl1i/sell_me_on_a_mono_black_or_rakdos_commander/)
@@ -196,6 +197,7 @@
  * 2017-09-02 - 40 posts - [Sell me on your Mardu commander!](https://www.reddit.com/r/EDH/comments/6xo1nq/sell_me_on_your_mardu_commander/)
  * 2016-11-13 - 23 posts - [Sell me on a Mardu Commander](https://www.reddit.com/r/EDH/comments/5cqs2b/sell_me_on_a_mardu_commander/)
 * BUG (Sultai)
+ * 2021-02-03 - ongoing - [Looking for a Sultai Deck](https://www.reddit.com/r/EDH/comments/lbnjyc/looking_for_a_sultai_deck/) 
  * 2019-11-03 - 79 posts - [Sell me on your sultai commander](https://www.reddit.com/r/EDH/comments/dr3dy0/sell_me_on_your_sultai_commander/)
  * 2017-11-27 - 26 posts - [Best Sultai Value commander?](https://www.reddit.com/r/EDH/comments/7g6t8c/best_sultai_value_commander/)
  * 2015-06-10 - 39 posts - [I haven't yet built BUG. Sell me on it!](https://www.reddit.com/r/EDH/comments/39a07h/i_havent_yet_built_bug_sell_me_on_it/)
@@ -221,7 +223,7 @@
 ## Specific themes or strategies
 
 * Aristocrats
- * 2021-01-28 - ongoing - [Best aristocrat commander? ](https://www.reddit.com/r/EDH/comments/l6j3c6/best_aristocrat_commander/) 
+ * 2021-01-28 - 44 posts - [Best aristocrat commander? ](https://www.reddit.com/r/EDH/comments/l6j3c6/best_aristocrat_commander/) 
  * 2021-01-22 - 40 posts - [Best Aristocrats commander?](https://www.reddit.com/r/EDH/comments/l1pabb/best_aristocrats_commander/)
  * 2017-08-16 - 30 posts - [Sell me on your aristocrats commander!](https://www.reddit.com/r/EDH/comments/6u2cvz/sell_me_on_your_aristocrats_commander/)
 * Artifact focused 
@@ -231,6 +233,7 @@
 * Budget 
  * 2019-02-04 - 26 posts - [Sell me on your budget lists!](https://www.reddit.com/r/EDH/comments/amz8o2/sell_me_on_your_budget_lists/)
  * 2019-01-15 - 108 posts - [I have 0 decks with green, sell me your budget deck with a good amount of broccoli in it](https://www.reddit.com/r/EDH/comments/ag7tl9/i_have_0_decks_with_green_sell_me_your_budget/)
+ * 2017-10-22 - 21 posts - [Sell me on a budget deck that I can let friends (casual or new players) borrow.](https://www.reddit.com/r/EDH/comments/77xnh1/sell_me_on_a_budget_deck_that_i_can_let_friends/)
  * 2017-02-23 - 44 posts - [Sell me on your strong budget EDH commander/deck!](https://www.reddit.com/r/EDH/comments/5vp1pn/sell_me_on_your_strong_budget_edh_commanderdeck/)
  * 2017-02-18 - 18 posts - [Sell me on your favorite budget Commander](https://www.reddit.com/r/EDH/comments/5utk9a/sell_me_on_your_favorite_budget_commander/)
  * 2016-09-07 - 27 posts - [Sell me on your budget commander](https://www.reddit.com/r/EDH/comments/51ltt7/sell_me_on_your_budget_commander/)
@@ -244,10 +247,15 @@
 * Stax
  * 2017-12-07 - 131 posts - [Sell me your Stax Commander!](https://www.reddit.com/r/EDH/comments/3vrv4w/sell_me_your_stax_commander/)
  * 2015-12-22 - 28 posts - [Sell Me on your Stax Commander](https://www.reddit.com/r/EDH/comments/3xvy6p/sell_me_on_your_stax_commander/)
+* Spellslinger
+ * 2020-02-06 - ongoing - [Interactive spellslinger commanders?](https://www.reddit.com/r/EDH/comments/ldrtuh/interactive_spellslinger_commanders/) 
+ * 2017-10-07 - 107 posts - [Sell me on a spellslinger commander](https://www.reddit.com/r/EDH/comments/74whou/sell_me_on_a_spellslinger_commander/)
 * Voltron
+ * 2021-02-06 - ongoing - [Best Voltron Commander?](https://www.reddit.com/r/EDH/comments/ldlgty/best_voltron_commander/) 
  * 2017-04-18 - 30 posts - [Sell me on your Voltron commanders](https://www.reddit.com/r/EDH/comments/65nep7/sell_me_on_your_voltron_commanders/)
  * 2016-02-28 - 50 posts - [Sell me Voltron](https://www.reddit.com/r/EDH/comments/484rwr/sell_me_voltron/)
 * Miscellaneous
+ * Copy/Clone:                  2021-02-06 - ongoing - [Suggestions for Copy/Clone Commander](https://www.reddit.com/r/EDH/comments/le3ar8/suggestions_for_copyclone_commander/) 
  * Non-combat:                  2021-01-23 - 33 posts - [What are your favorite non-combat commanders](https://www.reddit.com/r/EDH/comments/l34btv/what_are_your_favorite_noncombat_commanders/)                  
  * Pinger:                      2020-12-16 - 38 posts - [Best "Pinger" commander?](https://www.reddit.com/r/EDH/comments/kecal1/best_pinger_commander/)            
  * Landfall/lands matter:       2020-07-29 - 50 posts - [Good "Land matters/Landfall" commanders?](https://www.reddit.com/r/EDH/comments/i0699f/good_land_matterslandfall_commanders/)
@@ -265,8 +273,6 @@
  * Planeswalker commander: 		2017-11-25 - 48 posts - [Sell on your Planeswalker Commander](https://www.reddit.com/r/EDH/comments/7fbpez/sell_on_your_planeswalker_commander/)
  * A deck that can 1v3:         2017-11-24 - 32 posts - [Sell me on a deck that can comfortably 1v3 without being overly opressive](https://www.reddit.com/r/EDH/comments/7f7atq/sell_me_on_a_deck_that_can_comfortably_1v3/)
  * Toolbox:                     2017-11-23 - 25 posts - [Help me find a Toolbox General](https://www.reddit.com/r/EDH/comments/7f33or/help_me_find_a_toolbox_general/)
- * Budget deck for new players: 2017-10-22 - 21 posts - [Sell me on a budget deck that I can let friends (casual or new players) borrow.](https://www.reddit.com/r/EDH/comments/77xnh1/sell_me_on_a_budget_deck_that_i_can_let_friends/)
- * Spellslinger: 				2017-10-07 - 107 posts - [Sell me on a spellslinger commander](https://www.reddit.com/r/EDH/comments/74whou/sell_me_on_a_spellslinger_commander/)
  * Combo: 						2017-07-22 - 123 posts - [Sell me your Com(bo)mander!](https://www.reddit.com/r/EDH/comments/6oupi4/sell_me_your_combomander/)
  * Land destruction: 			2017-06-15 - 73 posts - [Sell me on your degenerate land destruction](https://www.reddit.com/r/EDH/comments/6hhhey/sell_me_on_your_degenerate_land_destruction/)
  * Less competitive: 			2017-05-23 - 83 posts - [Sell me on a less competitive deck.](https://www.reddit.com/r/EDH/comments/6cvc13/sell_me_on_a_less_competitive_deck/)
