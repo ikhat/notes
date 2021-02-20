@@ -2,7 +2,6 @@
 
 <!-- index start -->
 
-- [m things](vim.md)
 - [Android](android/-android.md)
   - [Android Home Screen](android/homescreen.md)
 - [Cocktails](cocktails/-cocktails.md)
