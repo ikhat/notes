@@ -1,6 +1,6 @@
 # Sell me...
 
-**Count so far:** 236
+**Count so far:** 238
 
 ## Non-specific, including "unique", "fun" commanders, since that is in no way specific
 
@@ -72,6 +72,7 @@
 ### Mono-coloured
 
 * Non-specific
+ * 2021-06-23 - ongoing - [Mono colored commanders?](https://www.reddit.com/r/EDH/comments/o6fk41/mono_colored_commanders/)
  * 2020-03-07 - 253 posts - [Sell me on your favorite Mono color deck.](https://www.reddit.com/r/EDH/comments/fey9q6/sell_me_on_your_favorite_mono_color_deck/)
  * 2020-02-14 - 107 posts - [Sell me your mono-colored commander!](https://www.reddit.com/r/EDH/comments/f3t8d0/sell_me_your_monocolored_commander/)
  * 2019-02-22 - 237 posts - [Your Favorite Mono-Color Commander?](https://www.reddit.com/r/EDH/comments/atcbsa/your_favorite_monocolor_commander/)
@@ -92,6 +93,7 @@
  * 2015-12-25 - 117 posts - [Sell me on a mono white commander](https://www.reddit.com/r/EDH/comments/3y6tma/sell_me_on_a_mono_white_commander/)
  * 2015-12-11 - 37 posts - [Sell me on a mono W commander.](https://www.reddit.com/r/EDH/comments/3we29d/sell_me_on_a_mono_w_commander/)
 * Mono Blue
+ * 2021-06-23 - ongoing - [Need suggestions for Mono-Blue Commander](https://www.reddit.com/r/EDH/comments/o6gje4/need_suggestions_for_monoblue_commander/)
  * 2018-04-02 - 43 posts - [Sell me on your Mono Blue and Mono White Commanders! ](https://www.reddit.com/r/EDH/comments/890iev/sell_me_on_your_mono_blue_and_mono_white/)
  * 2017-11-09 - 84 posts - [Help me pick a blue Timmy commander!](https://www.reddit.com/r/EDH/comments/7btvkg/help_me_pick_a_blue_timmy_commander/)
  * 2017-08-17 - 45 posts - [Sell me on your mono-blue commander!](https://www.reddit.com/r/EDH/comments/6sh37i/sell_me_on_your_monoblue_commander/)
@@ -102,7 +104,7 @@
  * 2015-03-11 - 93 posts - [Looking for a mono blue commander that does something other than full on control](https://www.reddit.com/r/EDH/comments/2yo33t/looking_for_a_mono_blue_commander_that_does/)
  * 2015-02-13 - 48 posts - [I need to scratch my mono blue itch...](https://www.reddit.com/r/EDH/comments/2vtlg4/i_need_to_scratch_my_mono_blue_itch/)
 * Mono Black
- * 2021-05-10 - ongoing - [Mono-Black Commander suggestions?](https://www.reddit.com/r/EDH/comments/n8s00d/monoblack_commander_suggestions/)
+ * 2021-05-10 - 315 posts - [Mono-Black Commander suggestions?](https://www.reddit.com/r/EDH/comments/n8s00d/monoblack_commander_suggestions/)
  * 2021-02-10 - 42 posts - [help me pick a mono-black commander (that isn’t tergrid)](https://www.reddit.com/r/EDH/comments/lh3k0r/help_me_pick_a_monoblack_commander_that_isnt/)
  * 2021-02-02 - 135 posts - [Looking for a New and Unique Mono Black Commander. Any recommendations?](https://www.reddit.com/r/EDH/comments/lb5h1i/looking_for_a_new_and_unique_mono_black_commander/)
  * 2020-07-12 - 103 posts - [Fun Monoblack commander?](https://www.reddit.com/r/EDH/comments/hpib1h/fun_monoblack_commander/)
@@ -263,6 +265,7 @@
  * 2017-04-18 - 30 posts - [Sell me on your Voltron commanders](https://www.reddit.com/r/EDH/comments/65nep7/sell_me_on_your_voltron_commanders/)
  * 2016-02-28 - 50 posts - [Sell me Voltron](https://www.reddit.com/r/EDH/comments/484rwr/sell_me_voltron/)
 * Miscellaneous
+ * Group hug:                   2021-06-24 - ongoing - [Best Group Hug Commander? Looking for Group Hug Experts!](https://www.reddit.com/r/EDH/comments/o6ylge/best_group_hug_commander_looking_for_group_hug/)
  * Copy/Clone:                  2021-02-06 - 24 posts - [Suggestions for Copy/Clone Commander](https://www.reddit.com/r/EDH/comments/le3ar8/suggestions_for_copyclone_commander/)
  * Non-combat:                  2021-01-23 - 33 posts - [What are your favorite non-combat commanders](https://www.reddit.com/r/EDH/comments/l34btv/what_are_your_favorite_noncombat_commanders/)
  * Pinger:                      2020-12-16 - 38 posts - [Best "Pinger" commander?](https://www.reddit.com/r/EDH/comments/kecal1/best_pinger_commander/)
